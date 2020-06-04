@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-You can also find my articles on [my Google Scholar profile][https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en]
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en)
 
 My research interest in. I am particularly keen on developing autonomous systems 
 
