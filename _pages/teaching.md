@@ -9,4 +9,6 @@ redirect_from:
 
 Hello
 
-{% include base_path %}
+* Machine Learning
+
+* Data Mining
