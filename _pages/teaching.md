@@ -1,10 +1,10 @@
 ---
 layout: archive
-permalink:/teaching/
 title: "Teaching"
+permalink: /teaching/
 author_profile: true
-redirect_from: 
-  - /teaching
+redirect_from:
+  - /projects
 ---
 
 Hello
