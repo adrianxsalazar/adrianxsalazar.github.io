@@ -10,5 +10,5 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 My research interest in. I am particularly keen on developing autonomous systems 
 
-[Paper title number 3](https://github.com/adrianxsalazar/adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3)
+[Paper title number 3](https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3)
 
