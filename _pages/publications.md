@@ -12,9 +12,9 @@ My research interest in. I am particularly keen on developing autonomous systems
 
 Publications
 
-*[Understanding human responses to errors in a collaborative human-robot selective harvesting task](https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3)
+* [Understanding human responses to errors in a collaborative human-robot selective harvesting task](https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3)
 Zhuoling Huang, Adrian Salazar Gomez, Richie Bird, Amar Singh Kalsi, Chipp Jansen, Zeyang Liu, Genki Miyauchi, Simon Parsons, Elizabeth I Sklar
 
-*[Toward Robot Co-Labourers for Intelligent Farming](https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3)
+* [Toward Robot Co-Labourers for Intelligent Farming](https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3)
 Zhuoling Huang, Genki Miyauchi, Adrian Salazar Gomez, Richie Bird, Amar Singh Kalsi, Chipp Jansen, Zeyang Liu, Simon Parsons, Elizabeth Sklar
 
