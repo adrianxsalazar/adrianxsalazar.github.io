@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Adrian Salazar Gomez"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Adrian Salazar Gomez"
 description              : &description "personal description"
 url                      : https://adrianxsalazar.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
