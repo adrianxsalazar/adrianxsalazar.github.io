@@ -15,7 +15,7 @@ url                      : https://adrianxsalazar.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adrianxsalazar/adrianxsalazar.github.io"
 teaser                   : 
-logo                     : "site-logo.png"
+logo                     : "mstile-70x70.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
