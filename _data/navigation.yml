@@ -4,7 +4,7 @@ main:
     url: /publications/ 
 
   - title: "Teaching"
-    url: /teaching/
+    url: /teach/
     
   - title: "CV"
     url: /cv/
@@ -14,4 +14,4 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
-    
+  
