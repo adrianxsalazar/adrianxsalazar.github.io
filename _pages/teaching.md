@@ -7,7 +7,7 @@ redirect_from:
   - /teaching
 ---
 
-Hello
+I have had the pleasure to be a teacher assistant of several modules at King's College London.
 
 * Machine Learning
 
