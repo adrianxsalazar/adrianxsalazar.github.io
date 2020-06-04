@@ -7,6 +7,6 @@ redirect_from:
   - /projects
 ---
 
-Hello
-
 {% include base_path %}
+
+Hello
