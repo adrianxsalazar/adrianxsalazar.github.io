@@ -14,11 +14,11 @@ Publications
 
 * [Understanding human responses to errors in a collaborative human-robot selective harvesting task](https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3)  
 Zhuoling Huang, Adrian Salazar Gomez, Richie Bird, Amar Singh Kalsi, Chipp Jansen, Zeyang Liu, Genki Miyauchi, Simon Parsons, Elizabeth I Sklar  
-Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI)  
+*Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI)* 
 [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3371382.3378333)
 
 * [Toward Robot Co-Labourers for Intelligent Farming](https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3)  
 Zhuoling Huang, Genki Miyauchi, Adrian Salazar Gomez, Richie Bird, Amar Singh Kalsi, Chipp Jansen, Zeyang Liu, Simon Parsons, Elizabeth Sklar  
-Proceedings of the UKRAS20 Conference: “Robots into the real world” (UK-RAS)  
+*Proceedings of the UKRAS20 Conference: “Robots into the real world” (UK-RAS)* 
 [[PDF]](https://www.ukras.org/wp-content/uploads/formidable/21/UKRAS20_paper_25.pdf)
 
