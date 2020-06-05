@@ -44,27 +44,38 @@ Research experience
   
 Teaching
 ======
-* Spring 2020: Teaching assistant of the Machine Learning course
-  * King's College London
+* Spring 2020: Teaching assistant of the Machine Learning course at King's College Londo
   * Topics: Introduction to Machine Learning, Neural Networks, Deep Learning, Reinforcement Learning
   
-* Spring 2020, Teaching assistant of the Data Mining course
-  * King's College London
+* Spring 2020, Teaching assistant of the Data Mining course at King's College London
   * Topics: Introduction to Data Mining, Computer Vision, Natural Language Processing, 
   
 Service
 ======
-* 
+* Reviewer:  21st Towards Autonomous Robotic Systems Conference (TAROS 2020)
+* Conference volunteer:  Eighth International Conference on Learning  Representations (ICLR 2020)
+* Conference volunteer:  Thirty-seventh International Conference on Machine Learning (ICML 2020)
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2019 - August 2019, MSc Research Project in Machine Learning
+  * University of Lincoln
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
 
-* Fall 2015: Research Assistant
-  * Github University
+* January 2019 - August 2019, MSc Research Project in Machine Learning
+  * University of Lincoln
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+ 
+* January 2019 - August 2019, MSc Research Project in Machine Learning
+  * University of Lincoln
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hu
+  
+* January 2019 - August 2019, MSc Research Project in Machine Learning
+  * University of Lincoln
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
@@ -79,13 +90,9 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
