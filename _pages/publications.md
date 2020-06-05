@@ -19,6 +19,14 @@ Zhuoling Huang, Genki Miyauchi, AdrianSalazar Gomez,  Richie Bird,  Amar Singh K
 <it> Proceedings of the 2020 Annual Conference Towards Autonomous Robotic Systems” (TAROS) </it> </p>
 </td>
 </tbody>
+ 
+<table style=="widdth:100%"> 
+ <tbody> <td> <img style="float: left; margin-right: 10px " src="https://github.com/favicon.ico" width="100px" height="100px" border="1px solid #bbb">
+<p> <a href="https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3"> Understanding human responses to errors in a collaborative human-robot selective harvesting task </a>  <br>
+Zhuoling Huang, Adrian Salazar Gomez, Richie Bird, Amar Singh Kalsi, Chipp Jansen, Zeyang Liu, Genki Miyauchi, Simon Parsons, Elizabeth I Sklar <br>
+<it>Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI) </it> <br> <a href="https://dl.acm.org/doi/pdf/10.1145/3371382.3378333"> [PDF] </a> </p>
+</td>
+</tbody>
 
 * [Understanding human responses to errors in a collaborative human-robot selective harvesting task](https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3)  
 Zhuoling Huang, Adrian Salazar Gomez, Richie Bird, Amar Singh Kalsi, Chipp Jansen, Zeyang Liu, Genki Miyauchi, Simon Parsons, Elizabeth I Sklar  
