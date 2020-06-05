@@ -1,5 +1,4 @@
 ---
-layout: home
 title: "My Publications"
 permalink: /publications/
 author_profile: true
