@@ -26,7 +26,7 @@ Zhuoling Huang, Adrian Salazar Gomez, Richie Bird, Amar Singh Kalsi, Chipp Janse
 </tr>
 
 
-<tr> <td style="width:115px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://github.com/favicon.ico" width="110px" height="110px" border="2px solid #bbb"> </td>
+<tr> <td style="width:115px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://adrianxsalazar.github.io/images/toward.png" width="110px" height="110px" border="2px solid #bbb"> </td>
 <td> <p> <a href="https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3"> Toward Robot Co-Labourers for Intelligent Farming </a>  <br>
 Zhuoling Huang, Genki Miyauchi, Adrian Salazar Gomez, Richie Bird, Amar Singh Kalsi, Chipp Jansen, Zeyang Liu, Simon Parsons, Elizabeth Sklar <br>
 <i> Proceedings of the UKRAS20 Conference: “Robots into the real world” (UK-RAS) </i> <br> <a href="https://www.ukras.org/wp-content/uploads/formidable/21/UKRAS20_paper_25.pdf"> [PDF] </a> </p> </td>
