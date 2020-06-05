@@ -13,9 +13,10 @@ My research interest in. I am particularly keen on developing autonomous systems
 <table>
 <tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://adrianxsalazar.github.io/images/toward.png" width="110px" height="110px" border="2px solid #bbb"> </td>
-<td style= "height=120px; vertical-align: top;"> <p> <a href="https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3"> An experiment on human-robot interaction in a simulated agricultural task </a>  <br>
-Zhuoling Huang, Genki Miyauchi, AdrianSalazar Gomez,  Richie Bird,  Amar Singh Kalsi,  Chipp Jansen,  Zeyang Liu,Simon Parsons,  and Elizabeth Sklar<br>
-<i> Proceedings of the 2020 Annual Conference Towards Autonomous Robotic Systems” (TAROS) </i> </p> </td>
+<td style= "height=120px; vertical-align: top;"> <p> <br> <a href="https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3"> An experiment on human-robot interaction in a simulated agricultural task </a> <br />  <br>
+Zhuoling Huang, Genki Miyauchi, AdrianSalazar Gomez,  Richie Bird,  Amar Singh Kalsi,  Chipp Jansen,  Zeyang Liu,Simon Parsons,  and Elizabeth Sklar <br />
+<br>
+<i> Proceedings of the 2020 Annual Conference Towards Autonomous Robotic Systems” (TAROS) </i> <br /> </p> </td>
 </tr>
 </tbody> 
 </table>
