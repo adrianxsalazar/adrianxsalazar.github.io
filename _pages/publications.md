@@ -4,17 +4,18 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-{% include base_path %}
+
 <article>
 <div class="article-wrap">
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en)
+ 
+You can also find my articles on <a href="https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en"> my Google Scholar profile </a> <br>
+ 
+My research interest in. I am particularly keen on developing autonomous systems <br>
 
-My research interest in. I am particularly keen on developing autonomous systems 
-
-Publications
+<strong>Publications</strong>
 
 <table style="widdth:100%"> 
- <tbody> <td> <img style="float: left; margin-right: 10px " src="https://github.com/favicon.ico" width="100px" height="100px" border="1px solid #bbb">
+<tbody> <td> <img style="float: left; margin-right: 10px " src="https://github.com/favicon.ico" width="100px" height="100px" border="1px solid #bbb">
 <p> <a href="https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3"> An experiment on human-robot interaction in a simulated agricultural task </a>  <br>
 Zhuoling Huang, Genki Miyauchi, AdrianSalazar Gomez,  Richie Bird,  Amar Singh Kalsi,  Chipp Jansen,  Zeyang Liu,Simon Parsons,  and Elizabeth Sklar<br>
 <i> Proceedings of the 2020 Annual Conference Towards Autonomous Robotic Systems” (TAROS) </i> </p>
