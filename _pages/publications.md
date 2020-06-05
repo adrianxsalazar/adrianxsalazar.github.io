@@ -12,14 +12,13 @@ My research interest in. I am particularly keen on developing autonomous systems
 
 Publications
 
-<table style=="widdth:100%">
-<tbody>
-<td> <img style="float: left; margin-right: 10px " src="https://github.com/favicon.ico" width="100px" height="100px" border="1px solid #bbb"> <p> [An experiment on human-robot interaction in a simulated agricultural task](https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3) <br>
- Zhuoling Huang, Genki Miyauchi, AdrianSalazar Gomez,  Richie Bird,  Amar Singh Kalsi,  Chipp Jansen,  Zeyang Liu,Simon Parsons,  and Elizabeth Sklar<br>
-<it> Proceedings of the 2020 Annual Conference Towards Autonomous Robotic Systems” (TAROS) </it>
- </p>
- </td>
- </tbody>
+<table style=="widdth:100%"> 
+ <tbody> <td> <img style="float: left; margin-right: 10px " src="https://github.com/favicon.ico" width="100px" height="100px" border="1px solid #bbb">
+<p> <a href="https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3"> An experiment on human-robot interaction in a simulated agricultural task </a>  <br>
+Zhuoling Huang, Genki Miyauchi, AdrianSalazar Gomez,  Richie Bird,  Amar Singh Kalsi,  Chipp Jansen,  Zeyang Liu,Simon Parsons,  and Elizabeth Sklar<br>
+<it> Proceedings of the 2020 Annual Conference Towards Autonomous Robotic Systems” (TAROS) </it> </p>
+</td>
+</tbody>
 
 * [Understanding human responses to errors in a collaborative human-robot selective harvesting task](https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3)  
 Zhuoling Huang, Adrian Salazar Gomez, Richie Bird, Amar Singh Kalsi, Chipp Jansen, Zeyang Liu, Genki Miyauchi, Simon Parsons, Elizabeth I Sklar  
