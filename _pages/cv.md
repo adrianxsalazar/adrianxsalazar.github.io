@@ -19,17 +19,17 @@ Education
 
 Research experience
 ======
-*  March 2020 - Present: Research Assistant in Machine Learning
+*  March 2020 - Present, Research Assistant in Machine Learning
   * University of Lincoln
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* March 2020 - Present: Research Assistant in Robotic Perception
+* March 2020 - Present, Research Assistant in Robotic Perception
   * University of Lincoln
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-* Fall 2015: Research 
+* Fall 2015, Research 
   * University of Lincoln
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
