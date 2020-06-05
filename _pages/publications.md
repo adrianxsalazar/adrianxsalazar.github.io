@@ -12,7 +12,7 @@ My research interest in. I am particularly keen on developing autonomous systems
 
 Publications
 
-<img style="float: left;" src="https://github.com/favicon.ico"> [An experiment on human-robot interaction in a simulated agricultural task](https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3)  
+<img style="float: left;" src="https://github.com/favicon.ico" width="100"> [An experiment on human-robot interaction in a simulated agricultural task](https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3)  
  Zhuoling Huang, Genki Miyauchi, AdrianSalazar Gomez,  Richie Bird,  Amar Singh Kalsi,  Chipp Jansen,  Zeyang Liu,Simon Parsons,  and Elizabeth Sklar  
 *Proceedings of the 2020 Annual Conference Towards Autonomous Robotic Systems” (TAROS)*  
 
