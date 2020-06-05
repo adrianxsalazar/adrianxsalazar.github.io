@@ -19,13 +19,18 @@ Education
 
 Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+*  March 2020 - Present: Research Assistant in Machine Learning
+  * University of Lincoln
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
+* March 2020 - Present: Research Assistant in Robotic Perception
+  * University of Lincoln
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
+* Fall 2015: Research 
+  * University of Lincoln
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
