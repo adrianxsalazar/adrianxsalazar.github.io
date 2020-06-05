@@ -23,6 +23,7 @@ thead {
 th {
   padding: 0.5em;
   font-weight: bold;
+  border: none;
   text-align: left;
   border-right: 1px solid $light-gray;
 }
@@ -30,9 +31,11 @@ th {
 td {
   padding: 0.5em;
   border-bottom: 1px solid $light-gray;
+  border: none;
   border-right: 1px solid $light-gray;
 }
 
 tr, td, th {
+  border: none;
   vertical-align: middle;
 }
