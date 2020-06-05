@@ -12,9 +12,9 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
  
 My research interest in. I am particularly keen on developing autonomous systems <br>
 
-<strong>Publications</strong>
+<strong>Publications</strong> <br>
 
-<table style="widdth:100%"> 
+<table style="widdth:60%"> 
 <tbody> <td> <img style="float: left; margin-right: 10px " src="https://github.com/favicon.ico" width="100px" height="100px" border="1px solid #bbb">
 <p> <a href="https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3"> An experiment on human-robot interaction in a simulated agricultural task </a>  <br>
 Zhuoling Huang, Genki Miyauchi, AdrianSalazar Gomez,  Richie Bird,  Amar Singh Kalsi,  Chipp Jansen,  Zeyang Liu,Simon Parsons,  and Elizabeth Sklar<br>
@@ -22,7 +22,7 @@ Zhuoling Huang, Genki Miyauchi, AdrianSalazar Gomez,  Richie Bird,  Amar Singh K
 </td>
 </tbody>
  
-<table style="widdth:80%"> 
+<table style="widdth:60%"> 
  <tbody> <td> <img style="float: left; margin-right: 10px " src="https://github.com/favicon.ico" width="100px" height="100px" border="1px solid #bbb">
 <p> <a href="https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3"> Understanding human responses to errors in a collaborative human-robot selective harvesting task </a>  <br>
 Zhuoling Huang, Adrian Salazar Gomez, Richie Bird, Amar Singh Kalsi, Chipp Jansen, Zeyang Liu, Genki Miyauchi, Simon Parsons, Elizabeth I Sklar <br>
@@ -30,7 +30,7 @@ Zhuoling Huang, Adrian Salazar Gomez, Richie Bird, Amar Singh Kalsi, Chipp Janse
 </td>
 </tbody>
  
-<table style="widdth:80%"> 
+<table style="widdth:60%"> 
  <tbody> <td> <img style="float: left; margin-right: 10px " src="https://github.com/favicon.ico" width="100px" height="100px" border="1px solid #bbb">
 <p> <a href="https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3"> Toward Robot Co-Labourers for Intelligent Farming </a>  <br>
 Zhuoling Huang, Genki Miyauchi, Adrian Salazar Gomez, Richie Bird, Amar Singh Kalsi, Chipp Jansen, Zeyang Liu, Simon Parsons, Elizabeth Sklar <br>
