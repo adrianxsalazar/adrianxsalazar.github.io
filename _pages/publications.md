@@ -3,9 +3,10 @@ title: "My Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+<html>
 <head>
-table { border-collapse:collapse }
+table { border-collapse:collapse } td, th {
+   border:none;}
 </head>
 
 <body>
@@ -45,3 +46,4 @@ Zhuoling Huang, Adrian Salazar Gomez, Richie Bird, Amar Singh Kalsi, Chipp Janse
 </tbody> 
 </table>
 </body>
+</html>
