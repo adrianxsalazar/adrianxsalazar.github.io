@@ -6,6 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
+<div class="article-wrap">
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en)
 
 My research interest in. I am particularly keen on developing autonomous systems 
@@ -35,3 +36,4 @@ Zhuoling Huang, Genki Miyauchi, Adrian Salazar Gomez, Richie Bird, Amar Singh Ka
 <i> Proceedings of the UKRAS20 Conference: “Robots into the real world” (UK-RAS) </i> <br> <a href="https://www.ukras.org/wp-content/uploads/formidable/21/UKRAS20_paper_25.pdf"> [PDF] </a> </p>
 </td>
 </tbody>
+</div>
