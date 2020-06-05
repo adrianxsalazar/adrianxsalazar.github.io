@@ -7,9 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-You can downdload a detailed pdf version of my CV in the following link: [CV](https://adrianxsalazar.github.io/files/Adrian_Salazar_Research_CV.pdf)
+You can downdload a detailed pdf version of my CV in the following link [CV](https://adrianxsalazar.github.io/files/Adrian_Salazar_Research_CV.pdf). To know in more detail about me and my projects, you can always visit other sections of this website.
 
 Education
 ======
@@ -24,25 +22,39 @@ Research experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* March 2020 - Present, Research Assistant in Robotic Perception
+* March 2020 - Present: Research Assistant in Robotic Perception
   * University of Lincoln
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-* Fall 2015, Research 
+* January 2019 - August 2019, MSc Research Project in Machine Learning
+  * University of Lincoln
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
+* January 2019 - August 2019, MSc Research Project in Machine Learning
+  * University of Lincoln
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+ 
+* January 2019 - August 2019, MSc Research Project in Machine Learning
   * University of Lincoln
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Spring 2020: Teaching assistant of the Machine Learning course
+  * King's College London
+  * Topics: Introduction to Machine Learning, Neural Networks, Deep Learning, Reinforcement Learning
+  
+* Spring 2020, Teaching assistant of the Data Mining course
+  * King's College London
+  * Topics: Introduction to Data Mining, Computer Vision, Natural Language Processing, 
   
 Service
 ======
-* Currently signed in to 43 different slack teams
+* 
 
 Work experience
 ======
