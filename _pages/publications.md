@@ -12,20 +12,20 @@ My research interest in. I am particularly keen on developing autonomous systems
 
 <strong>Publications</strong> <br>
 
-<tbody> <tr> <td> <img style="float: left; margin-right: 10px " src="https://github.com/favicon.ico" width="100px" height="100px" border="1px solid #bbb"> </td>
+<tr> <td> <img style="float: left; margin-right: 10px " src="https://github.com/favicon.ico" width="100px" height="100px" border="1px solid #bbb"> </td>
 <td><p> <a href="https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3"> An experiment on human-robot interaction in a simulated agricultural task </a>  <br>
 Zhuoling Huang, Genki Miyauchi, AdrianSalazar Gomez,  Richie Bird,  Amar Singh Kalsi,  Chipp Jansen,  Zeyang Liu,Simon Parsons,  and Elizabeth Sklar<br>
 <i> Proceedings of the 2020 Annual Conference Towards Autonomous Robotic Systems” (TAROS) </i> </p> </td>
-</td>
+</tr>
 <tr>
  
-<table style="width:60%"> 
- <tbody> <td> <img style="float: left; margin-right: 10px " src="https://github.com/favicon.ico" width="100px" height="100px" border="1px solid #bbb">
+
+<td> <img style="float: left; margin-right: 10px " src="https://github.com/favicon.ico" width="100px" height="100px" border="1px solid #bbb">
 <p> <a href="https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3"> Understanding human responses to errors in a collaborative human-robot selective harvesting task </a>  <br>
 Zhuoling Huang, Adrian Salazar Gomez, Richie Bird, Amar Singh Kalsi, Chipp Jansen, Zeyang Liu, Genki Miyauchi, Simon Parsons, Elizabeth I Sklar <br>
-<i>Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI) </i> <br> <a href="https://dl.acm.org/doi/pdf/10.1145/3371382.3378333">[PDF] </a> </p>
+<i>Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI) </i> <br> <a href="https://dl.acm.org/doi/pdf/10.1145/3371382.3378333">[PDF] </a> </p> <>
 </td>
-</tbody>
+
  
 <table style="width:60%"> 
  <tbody> <td> <img style="float: left; margin-right: 10px " src="https://github.com/favicon.ico" width="100px" height="100px" border="1px solid #bbb">
