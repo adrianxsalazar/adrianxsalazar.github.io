@@ -19,7 +19,7 @@ Education
 
 Research experience
 ======
-*  March 2020 - Present, Research Assistant in Machine Learning
+* March 2020 - Present: Research Assistant in Machine Learning
   * University of Lincoln
   * Duties included: Tagging issues
   * Supervisor: Professor Git
