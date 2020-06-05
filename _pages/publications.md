@@ -4,14 +4,18 @@ permalink: /publications/
 author_profile: true
 ---
 
- 
+<head>
+table { border-collapse:collapse }
+</head>
+
+<body>
 You can also find my articles on <a href="https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en"> my Google Scholar profile </a> <br>
  
 My research interest in. I am particularly keen on developing autonomous systems <br>
 
 <strong>Publications</strong> <br>
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table style="width:100%">
 <tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://adrianxsalazar.github.io/images/toward.png" width="100px" height="100px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p> <a href="https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3"> An experiment on human-robot interaction in a simulated agricultural task </a>  <br>
@@ -21,7 +25,7 @@ Zhuoling Huang, Genki Miyauchi, AdrianSalazar Gomez,  Richie Bird,  Amar Singh K
 </tbody> 
 </table>
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table style="width:100%">
 <tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://adrianxsalazar.github.io/images/toward.png" width="100px" height="100px" border="2px solid #bbb"> </td>
 <td style="height=120px; vertical-align: top;"> <p> <a href="https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3"> Toward Robot Co-Labourers for Intelligent Farming </a>  <br>
@@ -31,7 +35,7 @@ Zhuoling Huang, Genki Miyauchi, Adrian Salazar Gomez, Richie Bird, Amar Singh Ka
 </tbody> 
 </table>
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table style="width:100%">
 <tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://adrianxsalazar.github.io/images/toward.png" width="100px" height="100px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p> <a href="https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3"> Understanding human responses to errors in a collaborative human-robot selective harvesting task </a>  <br>
@@ -40,3 +44,4 @@ Zhuoling Huang, Adrian Salazar Gomez, Richie Bird, Amar Singh Kalsi, Chipp Janse
 </tr>
 </tbody> 
 </table>
+</body>
