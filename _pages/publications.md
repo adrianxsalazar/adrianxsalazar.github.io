@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 {% include base_path %}
-
+<article>
 <div class="article-wrap">
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en)
 
@@ -37,3 +37,4 @@ Zhuoling Huang, Genki Miyauchi, Adrian Salazar Gomez, Richie Bird, Amar Singh Ka
 </td>
 </tbody>
 </div>
+</article>
