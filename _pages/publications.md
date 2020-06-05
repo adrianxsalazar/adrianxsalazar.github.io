@@ -37,5 +37,6 @@ Zhuoling Huang, Genki Miyauchi, Adrian Salazar Gomez, Richie Bird, Amar Singh Ka
 <i> Proceedings of the UKRAS20 Conference: “Robots into the real world” (UK-RAS) </i> <br> <a href="https://www.ukras.org/wp-content/uploads/formidable/21/UKRAS20_paper_25.pdf"> [PDF] </a> </p>
 </td>
 </tbody>
+
 </div>
 </article>
