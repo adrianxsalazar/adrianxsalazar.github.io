@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Adrian Salazar Gomez"
+title                    : "Adrian Salazar Gomez - Site"
 title_separator          : "-"
 name                     : &name "Adrian Salazar Gomez"
 description              : &description "personal description"
