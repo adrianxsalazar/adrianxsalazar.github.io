@@ -28,17 +28,17 @@ Research experience
   * Supervisor: Professor Hub
   
 * January 2019 - August 2019, MSc Research Project in Machine Learning
-  * University of Lincoln
+  * King's College London
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-* January 2019 - August 2019, MSc Research Project in Machine Learning
-  * University of Lincoln
+* Summer 2019, MSc Research Project in Machine Learning
+  * King's College London
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
  
-* January 2019 - August 2019, MSc Research Project in Machine Learning
-  * University of Lincoln
+* S, MSc Research Project in Machine Learning
+  * University of Edinburgh
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
