@@ -14,7 +14,7 @@ My research interest in. I am particularly keen on developing autonomous systems
 
 
 <tr> <td style="width:110px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://github.com/favicon.ico" width="100px" height="100px" border="2px solid #bbb"> </td>
-<td><p> <a href="https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3"> An experiment on human-robot interaction in a simulated agricultural task </a>  <br>
+<td> <p> <a href="https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3"> An experiment on human-robot interaction in a simulated agricultural task </a>  <br>
 Zhuoling Huang, Genki Miyauchi, AdrianSalazar Gomez,  Richie Bird,  Amar Singh Kalsi,  Chipp Jansen,  Zeyang Liu,Simon Parsons,  and Elizabeth Sklar<br>
 <i> Proceedings of the 2020 Annual Conference Towards Autonomous Robotic Systems” (TAROS) </i> </td>
 </tr>
@@ -23,7 +23,7 @@ Zhuoling Huang, Genki Miyauchi, AdrianSalazar Gomez,  Richie Bird,  Amar Singh K
 <tr> <td style="width:110px;vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://github.com/favicon.ico" width="100px" height="100px" border=2px solid #bbb"> </td>
 <td> <p> <a href="https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3"> Understanding human responses to errors in a collaborative human-robot selective harvesting task </a>  <br>
 Zhuoling Huang, Adrian Salazar Gomez, Richie Bird, Amar Singh Kalsi, Chipp Jansen, Zeyang Liu, Genki Miyauchi, Simon Parsons, Elizabeth I Sklar <br>
-<i>Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI) </i> <br> <a href="https://dl.acm.org/doi/pdf/10.1145/3371382.3378333">[PDF] </a> </td>
+<i>Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction (HRI) </i> <br> <a href="https://dl.acm.org/doi/pdf/10.1145/3371382.3378333"> [PDF] </a> </td>
 </tr>
  
  
