@@ -3,13 +3,7 @@ title: "My Publications"
 permalink: /publications/
 author_profile: true
 ---
-<html>
-<head>
-table { border-collapse:collapse } td, th {
-   border:none;}
-</head>
 
-<body>
 You can also find my articles on <a href="https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en"> my Google Scholar profile </a> <br>
  
 My research interest in. I am particularly keen on developing autonomous systems <br>
@@ -45,5 +39,3 @@ Zhuoling Huang, Adrian Salazar Gomez, Richie Bird, Amar Singh Kalsi, Chipp Janse
 </tr>
 </tbody> 
 </table>
-</body>
-</html>
