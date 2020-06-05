@@ -10,7 +10,7 @@ My research interest in. I am particularly keen on developing autonomous systems
 
 <strong>Publications</strong> <br>
 
-<table style="width=60%">
+<table >
 <tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://adrianxsalazar.github.io/images/toward.png" width="110px" height="110px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p> <a href="https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3"> An experiment on human-robot interaction in a simulated agricultural task </a> <br>
@@ -20,7 +20,7 @@ Zhuoling Huang, Genki Miyauchi, Adrian Salazar Gomez,  Richie Bird,  Amar Singh 
 </tbody> 
 </table>
 
-<table style="width=60%">
+<table>
 <tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://adrianxsalazar.github.io/images/toward.png" width="110px" height="110px" border="2px solid #bbb"> </td>
 <td style="height=120px; vertical-align: top;"> <p> <a href="https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3"> Toward Robot Co-Labourers for Intelligent Farming </a>  <br>
@@ -30,7 +30,7 @@ Zhuoling Huang, Genki Miyauchi, Adrian Salazar Gomez, Richie Bird, Amar Singh Ka
 </tbody> 
 </table>
 
-<table style="width=60%">
+<table>
 <tbody>
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://adrianxsalazar.github.io/images/toward.png" width="110px" height="110px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p> <a href="https://adrianxsalazar.github.io/publication/2015-10-01-paper-title-number-3"> Understanding human responses to errors in a collaborative human-robot selective harvesting task </a>  <br>
