@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: compress
 title: "Teaching"
 permalink: /teach/
 author_profile: true
