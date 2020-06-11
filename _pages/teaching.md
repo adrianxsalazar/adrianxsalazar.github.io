@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: splash
 title: "Teaching"
 permalink: /teach/
 author_profile: true
