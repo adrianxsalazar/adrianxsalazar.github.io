@@ -82,15 +82,13 @@ analytics:
 # Site Author
 author:
   name             : "Adrian Salazar Gomez"
-  avatar           : "profile.png"
+  avatar           : "adrian_salazar_profile.png"
   bio              : "Research Assistant in Robotic Perception and Machine Learning"
   location         : "London. United Kingdom"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en"
-  email            : #"adrian.salazar_gomez@kcl.ac.uk"
-  email1            : "adrian.salazar_gomez@kcl.ac.uk"
-  email2            : "asalazargomez@lincoln.ac.uk"
+  email            : "adrian.salazar_gomez@kcl.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
