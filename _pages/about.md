@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello !! This is web page of Adrian Salazar Gomez
+Hello !! This is the web page of Adrian Salazar Gomez
 
 ## Me in a Nutshell
 I am a research assistant in Machine Learning and Robotic Perception at the [University of Lincoln](https://www.lincoln.ac.uk/home/). Besides, I do research in collaboration with [King's College London](https://www.kcl.ac.uk/) and I am a teaching assistant at [King's College London](https://www.kcl.ac.uk/) for the Data Mining and Machine Learning modules.
 
-##Research
+## Research
 My research interests lie broadly within artificial intelligence, machine learning, and autonomous systems.
 
 Lately, I've been working on:
