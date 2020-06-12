@@ -10,7 +10,11 @@ redirect_from:
 
 Hello !! This is the web page of Adrian Salazar Gomez.
 
-I am a research assistant in Machine Learning and Robotic Perception at the [University of Lincoln](https://www.lincoln.ac.uk/home/). Besides, I do research in collaboration with [King's College London](https://www.kcl.ac.uk/) and I am a teaching assistant at [King's College London](https://www.kcl.ac.uk/) for the Data Mining and Machine Learning modules.
+I am a research assistant in Machine Learning and Robotic Perception at the [University of Lincoln](https://www.lincoln.ac.uk/home/) and I do research in collaboration with [King's College London](https://www.kcl.ac.uk/) 
+
+I am a teaching assistant at [King's College London](https://www.kcl.ac.uk/) where I am teaching:
+* 7CCSMDM1: Data Mining 
+* 7CCSMML: Machine Learning
 
 ## Research
 My research interests lie broadly within artificial intelligence, machine learning, and autonomous systems.
@@ -21,12 +25,11 @@ Lately, I've been working on:
 * Uncertainty & Robustness in Deep Learning
 * Coolaborative robots
 
-Overall, enable au the goal of autonomou
 
 To know more about these topics, take a look to my [publications](https://adrianxsalazar.github.io/publications/) site or to my [Google Schoolar](https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en) profile.
 
 ## How to contact me
-You can drop me an email to [adrian.salazar_gomez@kcl.ac.uk](adrian.salazar_gomez@kcl.ac.uk).
+You can drop me an email to [adrian.salazar_gomez@kcl.ac.uk](adrian.salazar_gomez@kcl.ac.uk)
 
 
 
