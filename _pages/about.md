@@ -25,7 +25,6 @@ Lately, I've been working on:
 * Uncertainty & Robustness in Deep Learning
 * Coolaborative robots
 
-
 To know more about these topics, take a look to my [publications](https://adrianxsalazar.github.io/publications/) site or to my [Google Schoolar](https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en) profile.
 
 ## How to contact me
