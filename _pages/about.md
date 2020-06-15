@@ -31,4 +31,15 @@ To know more about these topics, take a look to my [publications](https://adrian
 You can drop me an email to [adrian.salazar_gomez@kcl.ac.uk](adrian.salazar_gomez@kcl.ac.uk)
 
 
+## Education
+
+<p float="middle">
+	<img src="west_florida_logo.png" width="100" alt="Avatar" />
+	<img src="Edinburgh_logo.png" width="100" alt="Avatar" />
+	<img src="Kings_College_London_logo.png" width="120" alt="Avatar" />
+</p>
+
+Detailed information
+
+
 
