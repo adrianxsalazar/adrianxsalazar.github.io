@@ -200,15 +200,14 @@ border: 1px solid $border-color;
 }
 
 .image-cropper {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     position: relative;
     overflow: hidden;
     border-radius: 50%;
 }
 
 .profile-pic {
-  display: inline;
   margin: 0 auto;
   margin-left: -25%; //centers the image
   height: 100%;
