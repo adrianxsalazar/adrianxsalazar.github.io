@@ -34,9 +34,9 @@ You can drop me an email to [adrian.salazar_gomez@kcl.ac.uk](adrian.salazar_gome
 ## Education
 
 <p float="middle">
-	<img src="west_florida_logo.png" />
-	<img src="Edinburgh_logo.png" />
-	<img src="Kings_College_London_logo.png"/>
+	<img src="/west_florida_logo.png" />
+	<img src="/Edinburgh_logo.png" />
+	<img src="/Kings_College_London_logo.png"/>
 </p>
 
 Detailed information
