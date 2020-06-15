@@ -8,13 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Hello !! This is the web page of Adrian Salazar Gomez.
+<div class="text-justify">
 
-I am a research assistant in Machine Learning and Robotic Perception at the [University of Lincoln](https://www.lincoln.ac.uk/home/) and I do research in collaboration with [King's College London](https://www.kcl.ac.uk/) 
+<p>Hello !! This is the web page of Adrian Salazar Gomez.</p>
 
-I am a teaching assistant at [King's College London](https://www.kcl.ac.uk/) where I am teaching:
-* 7CCSMDM1: Data Mining 
-* 7CCSMML: Machine Learning
+<p>I am a research assistant in Machine Learning and Robotic Perception at the  <a href="https://www.lincoln.ac.uk/home/">University of Lincoln</a>  and I do research in collaboration with <a href="https://www.kcl.ac.uk/">King's College London</a> 
+
+<p>I am a teaching assistant at <a href="https://www.kcl.ac.uk/">King's College London</a> where I am teaching:</p> 
+
+ <ul>
+  <li>7CCSMDM1: Data Mining </li>
+  <li>7CCSMML: Machine Learning</li>
+</ul> 
+
+</div>
+
 
 ## Research
 My research interests lie broadly within artificial intelligence, machine learning, and autonomous systems.
@@ -34,9 +42,9 @@ You can drop me an email to [adrian.salazar_gomez@kcl.ac.uk](adrian.salazar_gome
 ## Education
 
 <p float="middle">
-	<img src="/west_florida_logo.png" />
-	<img src="/Edinburgh_logo.png" />
-	<img src="/Kings_College_London_logo.png"/>
+	<img src="https://adrianxsalazar.github.io/images/west_florida_logo.png" />
+	<img src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png" />
+	<img src="https://adrianxsalazar.github.io/images/Kings_College_London_logo.png"/>
 </p>
 
 Detailed information

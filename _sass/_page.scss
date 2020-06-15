@@ -399,3 +399,42 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+
+.img-circular{
+ width: 200px;
+ height: 200px;
+ background-image: url('http://strawberry-fest.org/wp-content/uploads/2012/01/Coca-Cola-logo.jpg');
+ background-size: cover;
+ display: block;
+ border-radius: 100px;
+ -webkit-border-radius: 100px;
+ -moz-border-radius: 100px;
+}
+
+
+.author__avatar {
+  display: table-cell;
+  vertical-align: top;
+  width: 120px;
+  // set width only, for non-square avatars
+  // height: 36px;
+
+  @include breakpoint($large) {
+    display: block;
+    width: auto;
+    height: auto;
+  }
+
+  img {
+    max-width: 175px;
+    border-radius: 50%;
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
+  }
+}
+
