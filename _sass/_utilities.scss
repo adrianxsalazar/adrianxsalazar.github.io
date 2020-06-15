@@ -166,16 +166,14 @@ body:hover .visually-hidden button {
 
 
 .img-circular{
- width: 150px;
- height: 150px;
- background-size: cover;
- display: block;
- display: block;
- margin-left: auto;
-  margin-right: auto;
- border-radius: 100px;
- -webkit-border-radius: 100px;
- -moz-border-radius: 100px;
+height: auto
+width: auto
+max-width: 150px; 
+max-height: 150x;
+border-radius: 50%;
+@include breakpoint($large) {
+padding: 5px;
+border: 1px solid $border-color;
 }
 
 
