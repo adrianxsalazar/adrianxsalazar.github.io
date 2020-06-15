@@ -63,9 +63,9 @@ redirect_from:
 
 
 <p float="">
-	<img class="img-circular" src="https://adrianxsalazar.github.io/images/west_florida_logo.png" />
-	<img class="img-circular" src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png" />
-	<img class="img-circular" src="https://adrianxsalazar.github.io/images/King's_College_London_logo.png"/>
+	<img class="img-circular" src="https://adrianxsalazar.github.io/images/west_florida_logo.png" width="120"/>
+	<img class="img-circular" src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png" width="120" />
+	<img class="img-circular" src="https://adrianxsalazar.github.io/images/King's_College_London_logo.png" width="120"/>
 </p>
 
 </div>
