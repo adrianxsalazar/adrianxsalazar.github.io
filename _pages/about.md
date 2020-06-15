@@ -60,10 +60,10 @@ redirect_from:
 <h2> Education </h2>
 
 
-<p float="middle">
-	<img class="img-circular" src="https://adrianxsalazar.github.io/images/west_florida_logo.png" />
-	<img class="img-circular" src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png" />
-	<img class="img-circular" src="https://adrianxsalazar.github.io/images/King's_College_London_logo.png"/>
+<p float="">
+	<img class="author__avatar" src="https://adrianxsalazar.github.io/images/west_florida_logo.png" />
+	<img class="author__avatar" src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png" />
+	<img class="author__avatar" src="https://adrianxsalazar.github.io/images/King's_College_London_logo.png"/>
 </p>
 
 </div>
