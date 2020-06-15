@@ -24,7 +24,7 @@ redirect_from:
 </div>
 
 
-<h2> Research 2</h2>
+<h2> Research </h2>
 
 <div class="text-justify">
 
@@ -61,9 +61,9 @@ redirect_from:
 
 
 <p float="middle">
-	<img class="img-circula" src="https://adrianxsalazar.github.io/images/west_florida_logo.png" />
-	<img class="img-circula" src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png" />
-	<img class="img-circula" src="https://adrianxsalazar.github.io/images/King's_College_London_logo.png"/>
+	<img class="img-circular" src="https://adrianxsalazar.github.io/images/west_florida_logo.png" />
+	<img class="img-circular" src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png" />
+	<img class="img-circular" src="https://adrianxsalazar.github.io/images/King's_College_London_logo.png"/>
 </p>
 
 </div>
