@@ -14,6 +14,8 @@ redirect_from:
 
 <p>I am a research assistant in Machine Learning and Robotic Perception at the  <a href="https://www.lincoln.ac.uk/home/">University of Lincoln</a>  and I do research in collaboration with <a href="https://www.kcl.ac.uk/">King's College London</a> </p>
 
+<h2> Teaching </h2>
+
 <p>I am a teaching assistant at <a href="https://www.kcl.ac.uk/">King's College London</a> where I am teaching:</p> 
 
  <ul>
@@ -61,9 +63,9 @@ redirect_from:
 
 
 <p float="">
-	<img class="author__avatar" src="https://adrianxsalazar.github.io/images/west_florida_logo.png" />
-	<img class="author__avatar" src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png" />
-	<img class="author__avatar" src="https://adrianxsalazar.github.io/images/King's_College_London_logo.png"/>
+	<img class="img-circular" src="https://adrianxsalazar.github.io/images/west_florida_logo.png" />
+	<img class="img-circular" src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png" />
+	<img class="img-circular" src="https://adrianxsalazar.github.io/images/King's_College_London_logo.png"/>
 </p>
 
 </div>
