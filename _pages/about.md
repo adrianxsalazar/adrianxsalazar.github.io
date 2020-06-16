@@ -65,24 +65,23 @@ redirect_from:
 
 <div class="row">
 	
-	<div class="img-circle">
-	<img  src="https://adrianxsalazar.github.io/images/west_florida_logo.png">
-	<p> University of <br> West Florida <br>and Burgos</p>
+	<div class="circle-text">
+	<img  class="img-circle" src="https://adrianxsalazar.github.io/images/west_florida_logo.png">
+	<div class="align-center"><p> University of <br> West Florida <br>and Burgos</p></div>
 	</div>
 	
-	<div class="img-circle">
-	<img  src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png">
-	<p> University of <br>Edinburgh</p>
+	<div class="circle-text">
+	<img class="img-circle" src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png">
+	<div class="align-center"><p> University of <br>Edinburgh</p></div>
 	</div>
 	
-	<div class="img-circle">
-	<img  src="https://adrianxsalazar.github.io/images/King's_College_London_logo.png">
-	<p> King's College <br>London</p>
+	<div class="circle-text">
+	<img class="img-circle" src="https://adrianxsalazar.github.io/images/King's_College_London_logo.png">
+	<div class="align-center"><p> King's College <br>London</p></div>
 	</div>
 </div>
 
-More information in 
-
+If you are more interes
 </div>
 
 
