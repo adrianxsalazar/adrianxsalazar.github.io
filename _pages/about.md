@@ -52,7 +52,7 @@ redirect_from:
 
 <h2> How to contact with me </h2>
 
-<p>You can drop me an email to <a href="mailto: adrian.salazar_gomez@kcl.ac.uk"> my email address </a> "   adrian.salazar_gomez@kcl.ac.uk   " </p>
+<p>You can drop me an email to <a href="mailto: adrian.salazar_gomez@kcl.ac.uk"> my email address </a> "  adrian.salazar_gomez@kcl.ac.uk   " </p>
 
 </div>
   
@@ -65,8 +65,11 @@ redirect_from:
 
 <div class="row">
 	<img class="img-circle" src="https://adrianxsalazar.github.io/images/west_florida_logo.png">
+<figcaption> University of West Florida and University of Burgos </figcaption>
 	<img class="img-circle" src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png">
+<figcaption> University of Edinburgh </figcaption>
 	<img class="img-circle" src="https://adrianxsalazar.github.io/images/King's_College_London_logo.png">
+<figcaption> King's College London </figcaption>
 </div>
 
 </div>
