@@ -52,7 +52,7 @@ redirect_from:
 
 <h2> How to contact with me </h2>
 
-<p>You can drop me an email to <a href="adrian.salazar_gomez@kcl.ac.uk">"adrian.salazar_gomez@kcl.ac.uk"</a>. </p>
+<p>You can drop me an email to <a href="mailto: adrian.salazar_gomez@kcl.ac.uk"> my email address </a>. "   adrian.salazar_gomez@kcl.ac.uk   " </p>
 
 </div>
   
