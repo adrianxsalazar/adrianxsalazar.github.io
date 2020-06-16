@@ -169,22 +169,22 @@ body:hover .visually-hidden button {
 border-radius: 50%;
 width: auto;
 height: auto;
-max-width: 150px;
-max-height: 150px;
+max-width: 130px;
+max-height: 130px;
 }
 
 
 .row {
   display: flex;
   flex-wrap: wrap;
-  padding: 0 10px;
+  padding: 0 4 px;
 }
 
 /* Create four equal columns that sits next to each other */
 .column {
-  flex: 33%;
-  max-width: 30%;
-  padding: 0 10px;
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
 }
 
 .column img {
