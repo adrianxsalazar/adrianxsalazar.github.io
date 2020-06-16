@@ -67,20 +67,17 @@ redirect_from:
 	
 	<div>
 	<img class="img-circle" src="https://adrianxsalazar.github.io/images/west_florida_logo.png">
-	<p> University of Burgos</p>
-	<p> B.Sc. in Statistics & Business </p>
+	<p> University of West Florida and Burgos</p>
 	</div>
 	
 	<div>
 	<img class="img-circle" src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png">
 	<p> University of Edinburgh</p>
-	<p> M.Sc. in Business Analytics</p>
 	</div>
 	
 	<div>
 	<img class="img-circle" src="https://adrianxsalazar.github.io/images/King's_College_London_logo.png">
 	<p> King's College London</p>
-	<p> M.Sc. in Data Science </p>
 	</div>
 </div>
 
