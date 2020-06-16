@@ -64,11 +64,9 @@ redirect_from:
 <div class="align-center">
 
 <div class="row">
-  <div class="column">
 	<img class="img-circle" src="https://adrianxsalazar.github.io/images/west_florida_logo.png">
 	<img class="img-circle" src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png">
 	<img class="img-circle" src="https://adrianxsalazar.github.io/images/King's_College_London_logo.png">
-  </div>
 </div>
 
 </div>
