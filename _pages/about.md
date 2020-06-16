@@ -73,12 +73,12 @@ redirect_from:
 	<div>
 	<img class="img-circle" src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png">
 	<p> University of Burgos</p>
-	</div
+	</div>
 	
 	<div>
 	<img class="img-circle" src="https://adrianxsalazar.github.io/images/King's_College_London_logo.png">
 	<p> University of Burgos</p>
-	</div
+	</div>
 </div>
 
 </div>
