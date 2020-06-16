@@ -169,17 +169,18 @@ body:hover .visually-hidden button {
 border-radius: 50%;
 width: auto;
 height: auto;
-max-width: 130px;
-max-height: 130px;
-padding-left: 20px;
-padding-right: 20px;
+max-width: 160px;
+max-height: 160px;
 }
 
 
 .row {
   display: flex;
   flex-wrap: wrap;
-  padding: 0 5px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px;
+margin: 5px;
 }
 
 /* Create four equal columns that sits next to each other */
