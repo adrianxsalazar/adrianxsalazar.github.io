@@ -171,7 +171,19 @@ width: auto;
 height: auto;
 max-width: 130px;
 max-height: 130px;
+display: block;
+margin-left: auto;
+margin-right: auto;
 }
+
+.circle-text {
+display: block;
+width: auto;
+height: auto;
+max-width: 140px;
+max-height: 140px;
+}
+
 
 
 .row {
