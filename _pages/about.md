@@ -62,11 +62,14 @@ redirect_from:
 <h2> Education </h2>
 
 <div class="align-center">
-<p float="middle">
-	<img class="img-circle" src="https://adrianxsalazar.github.io/images/west_florida_logo.png" width="200" height="200">
-	<img class="img-circle" src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png" width="200" height="200">
-	<img class="img-circle" src="https://adrianxsalazar.github.io/images/King's_College_London_logo.png" width="200" height="200">
-</p> </div>
+
+<div class="row">
+  <div class="column">
+	<img class="img-circle" src="https://adrianxsalazar.github.io/images/west_florida_logo.png">
+	<img class="img-circle" src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png">
+	<img class="img-circle" src="https://adrianxsalazar.github.io/images/King's_College_London_logo.png">
+  </div>
+</div>
 
 </div>
 
