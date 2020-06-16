@@ -165,58 +165,15 @@ body:hover .visually-hidden button {
 }
 
 
-.img-circular{
-height: auto;
-width: auto;
-max-width: 130px; 
-max-height: 130x;
-border-radius: 50%;
-border: 1px solid $border-color;
-}
-
 .img-circle {
 border-radius: 50%;
+width: auto;
+height: auto;
+max-width: 130px;
+max-height: 130px;
 }
 
 
-.author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 120px;
-  // set width only, for non-square avatars
-  // height: 36px;
-
-  @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
-  }
-
-  img {
-    max-width: 175px;
-    border-radius: 50%;
-
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
-  }
-}
-
-.image-cropper {
-    width: 150px;
-    height: 150px;
-    position: relative;
-    overflow: hidden;
-    border-radius: 50%;
-}
-
-.profile-pic {
-  margin: 0 auto;
-  margin-left: -25%; //centers the image
-  height: 100%;
-  width: auto;
-}
 
 /*
    Icons
