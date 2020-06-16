@@ -64,12 +64,21 @@ redirect_from:
 <div class="align-center">
 
 <div class="row">
+	
+	<div>
 	<img class="img-circle" src="https://adrianxsalazar.github.io/images/west_florida_logo.png">
-<figcaption> University of West Florida and University of Burgos </figcaption>
+	<p> University of Burgos</p>
+	</div>
+	
+	<div>
 	<img class="img-circle" src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png">
-<figcaption> University of Edinburgh </figcaption>
+	<p> University of Burgos</p>
+	</div
+	
+	<div>
 	<img class="img-circle" src="https://adrianxsalazar.github.io/images/King's_College_London_logo.png">
-<figcaption> King's College London </figcaption>
+	<p> University of Burgos</p>
+	</div
 </div>
 
 </div>
