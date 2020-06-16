@@ -61,8 +61,6 @@ redirect_from:
 
 <h2> Education </h2>
 
-<div class="align-center">
-
 <div class="row">
 	
 	<div class="circle-text">
@@ -81,7 +79,8 @@ redirect_from:
 	</div>
 </div>
 
-If you are more interes
+<p>If you want to know more about me and my previous  you can take a look to the my section </p>
+
 </div>
 
 
