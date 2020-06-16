@@ -62,22 +62,13 @@ redirect_from:
 <h2> Education </h2>
 
 <p> I have had the chance to study in academic institutuions such as the University of Burgos, the University of Edinburgh and King's Collegue London. </p>
+
 <div class="row">
 
-	<figure>
 	<img  class="img-circle" src="https://adrianxsalazar.github.io/images/west_florida_logo.png">
-	<figcaption> University of West Florida  and Burgos</figcaption>
-	</figure> 
-	
-	<figure>
 	<img class="img-circle" src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png">
-	<figcaption>  University of dinburgh </figcaption>
-	</figure> 
-	
-	<figure>
 	<img class="img-circle" src="https://adrianxsalazar.github.io/images/King's_College_London_logo.png">
-	<figcaption> King's College <br>London </figcaption>
-	</figure> 
+
 
 </div>
 
