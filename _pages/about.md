@@ -12,8 +12,7 @@ redirect_from:
 
 <p>Hello !! This is the web page of Adrian Salazar Gomez.</p>
 
-<p>I am a research assistant in Machine Learning and Robotic Perception at the  <a href="https://www.lincoln.ac.uk/home/">University of Lincoln</a>  and I do research in collaboration with <a href="https://www.kcl.ac.uk/">King's College London</a> </p>.
-
+<p>I am a research assistant in Machine Learning and Robotic Perception at the  <a href="https://www.lincoln.ac.uk/home/">University of Lincoln</a>  and I do research in collaboration with <a href="https://www.kcl.ac.uk/">King's College London</a> </p>
 
 
 <h2> Research </h2>
@@ -50,9 +49,10 @@ redirect_from:
 
 <div class="text-justify">
 
-<h2> How to contact with me </h2>
+<h2> Contact </h2>
 
-<p>You can drop me an email to my email address adrian.salazar_gomez@kcl.ac.uk </p>
+<p>You can drop me an email to my email address <a href="adrian.salazar_gomez@kcl.ac.uk"> my email: </a> <br>
+<strong>adrian.salazar_gomez@kcl.ac.uk</strong>  </p>
 
 </div>
   
@@ -61,7 +61,7 @@ redirect_from:
 
 <h2> Education </h2>
 
-<p> I have had the chance to study my BSc at University of West Florida and University of Burgos, a MSc at the University of Edinburgh, and a MSc atKing's Collegue London. </p>
+<p> I have had the chance to study my BSc at the University of West Florida and the University of Burgos, a MSc at the University of Edinburgh, and a MSc at King's Collegue London. </p>
 
 <div class="text-center">
 <div class="row">
