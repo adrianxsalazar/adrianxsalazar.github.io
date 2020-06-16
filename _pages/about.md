@@ -51,7 +51,7 @@ redirect_from:
 
 <h2> Contact </h2>
 
-<p>You can drop me an email to my email address <a href="adrian.salazar_gomez@kcl.ac.uk"> my email: </a> <br>
+<p>You can drop me an email to my email address <a href="mailto:adrian.salazar_gomez@kcl.ac.uk"> my email: </a> <br>
 <strong>adrian.salazar_gomez@kcl.ac.uk</strong>  </p>
 
 </div>
