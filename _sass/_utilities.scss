@@ -171,15 +171,15 @@ width: auto;
 height: auto;
 max-width: 130px;
 max-height: 130px;
+padding-left: 20px;
+padding-right: 20px;
 }
 
 
 .row {
   display: flex;
   flex-wrap: wrap;
-  padding: 20px;
-margin: 2em;
-
+  padding: 0 5px;
 }
 
 /* Create four equal columns that sits next to each other */
