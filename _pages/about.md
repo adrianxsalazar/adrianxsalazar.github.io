@@ -52,7 +52,7 @@ redirect_from:
 
 <h2> How to contact with me </h2>
 
-<p>You can drop me an email to <a href="mailto: adrian.salazar_gomez@kcl.ac.uk"> my email address </a> "  adrian.salazar_gomez@kcl.ac.uk   " </p>
+<p>You can drop me an email to <a> href="mailto: adrian.salazar_gomez@kcl.ac.uk" > my email address </a> adrian.salazar_gomez@kcl.ac.uk  </p>
 
 </div>
   
@@ -63,15 +63,21 @@ redirect_from:
 
 <p> I have had the chance to study in academic institutuions such as the University of Burgos, the University of Edinburgh and King's Collegue London. </p>
 <div class="row">
-	
+
+	<figure>
 	<img  class="img-circle" src="https://adrianxsalazar.github.io/images/west_florida_logo.png">
-	<div class="circle-text"><p> University of <br> West Florida <br>and Burgos</p></div>
+	<figcaption> University of West Florida  and Burgos</figcaption>
+	</figure> 
 	
+	<figure>
 	<img class="img-circle" src="https://adrianxsalazar.github.io/images/Edinburgh_logo.png">
-	<div class="circle-text"><p> University of <br>Edinburgh</p></div>
+	<figcaption>  University of dinburgh </figcaption>
+	</figure> 
 	
+	<figure>
 	<img class="img-circle" src="https://adrianxsalazar.github.io/images/King's_College_London_logo.png">
-	<div class="circle-text"><p> King's College <br>London</p></div>
+	<figcaption> King's College <br>London </figcaption>
+	</figure> 
 
 </div>
 
