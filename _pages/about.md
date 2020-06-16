@@ -61,6 +61,7 @@ redirect_from:
 
 <h2> Education </h2>
 
+<p> I have had the chance to study in academic institutuions such as the University of Burgos, the University of Edinburgh and King's Collegue London. </p>
 <div class="row">
 	
 	<img  class="img-circle" src="https://adrianxsalazar.github.io/images/west_florida_logo.png">
@@ -73,6 +74,8 @@ redirect_from:
 	<div class="circle-text"><p> King's College <br>London</p></div>
 
 </div>
+
+<p> If you want to know about my previous studies and my research placements you can take a look to my <a href="https://adrianxsalazar.github.io/cv/"> CV site </a></p>
 
 </div>
 
