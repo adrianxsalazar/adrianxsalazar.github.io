@@ -78,9 +78,9 @@ redirect_from:
 
 <h2>Publications</h2>
 <ul>
-	<li>An experiment on human-robot interaction in a simulated agricultural task. In 		Proceedings of the 2020 Annual Conference Towards Autonomous Robotic Systems</li>
+	<li><p>An experiment on human-robot interaction in a simulated agricultural task </p> In 		Proceedings of the 2020 Annual Conference Towards Autonomous Robotic Systems</li>
 
- 	<li>Understanding human responses to errors in a collaborative human-robot selective 		harvesting task.  In Proceeding of EPSRC UK-RAS Network (2020).  UKRAS20 		Conference:  “Robots into the realworld” </li>
+ 	<li><p>Understanding human responses to errors in a collaborative human-robot selective 		harvesting task </p>  In Proceeding of EPSRC UK-RAS Network (2020).  UKRAS20 		Conference:  “Robots into the realworld” </li>
 
 	<li>Toward robot co-labourers for intelligent farming. In Companion of the 		2020ACM/IEEE International Conference on Human-Robot Interaction </li>
 	
@@ -101,7 +101,7 @@ redirect_from:
   	<li>Duties included: Datasets management, marketing analytics, website revamp </p></li>
 	</ul>
  
-<li><p> anuary 2016-May 2016, Business consultant intern </p></li>
+<li><p> January 2016-May 2016, Business consultant intern </p></li>
 	<ul>
   	<li>Florida Small Business Development Center, Pensacola, Florida, USA </li>
   	<li>Duties included: Online marketing for local small businesses, web development </li>
@@ -119,22 +119,22 @@ redirect_from:
 
 <ul>
 
-<li><p> Programming Languages </li></p>
+<li><p> Programming Languages </p></li>
 	<ul>
   	<li>Python, MATLAB, C++, R, HTML, SQL</li>
 	</ul>
 
-<li><p> Programming Languages </li></p>
+<li><p> Programming Languages </p></li>
 	<ul>
   	<li>Keras, Tensorflow, Pytorch, Scikit-learn, CUDA, Amazon Web Services, Google 	Cloud </li>
 	</ul>
 
-<li><p> Tools & Operative Systems </li></p>
+<li><p> Tools & Operative Systems </p></li>
 	<ul>
   	<li>Linux, ROS, Windows, Git, GitHub, LATEX, Google Colaboratory, Unix Shell 			Scripting (bash) </li>
 	</ul>
 
-<li><p> Tools & Operative Systems </li></p>
+<li><p> Tools & Operative Systems </p></li>
 	<ul>
   	<li> English (proficient) and Spanish (native speaker)</li>
 	</ul>
