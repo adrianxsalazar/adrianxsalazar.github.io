@@ -13,9 +13,9 @@ redirect_from:
 <h2>Education</h2>
 
 <ul>
-	<li>M.S. in Data Science, King's College London, 2019 </li>
-	<li>M.S. in Business Analytics, University of Edinburgh, 2018 </li>
-	<li>B.S. in Statistics and Business, University of West Florida and University of 		Burgos, 2016 </li>
+	<li>M.Sc. in Data Science, King's College London, 2019 </li>
+	<li>M.Sc. in Business Analytics, University of Edinburgh, 2018 </li>
+	<li>B.Sc. in Statistics and Business, University of West Florida and University of 		Burgos, 2016 </li>
 
 </ul> 
 
@@ -35,21 +35,21 @@ redirect_from:
 	  <li>Topics: Anomaly detection and Robustness in Deep Learning <li>
 	</ul>	
   
-<li><b>May 2019 - August 2019, Research Intern project in Machine Learning</b></li>
+<li><b>May 2019 - August 2019: Research Intern project in Machine Learning</b></li>
 	<ul>
 	<li>Kings College London at InteractLab</li>
   	<li>Supervisors: Prof. Simon Parsons and Prof. Elizabeth Sklar</li>
-  	<li>Topics: Object detection, human-robot-interaction, coolaborative robots, active learning</li>
+  	<li>Topics: Object detection, human-robot-interaction, coolaborative robots, active 		learning</li>
 	</ul>
   
-<li><b>January 2019 - August 2019, MSc Research Project in Machine Learning</b></li>
+<li><b>January 2019 - August 2019: MSc Research Project in Machine Learning</b></li>
 	<ul>
   	<li>King's College London</li>
   	<li>Supervisor:  Dr. Brendan Michael</li>
-  	<li>Topics: 3D Generative Adversarial Networks, 3D image classification <li>
+  	<li>Topics: 3D Generative Adversarial Networks, 3D image classification </li>
  	</ul>
 
-<li><b>January 2019 - August 2019 MSc Research Project in Machine Learning</b></li>
+<li><b>January 2019 - August 2019: MSc Research Project in Machine Learning</b></li>
 	<ul>
   	<li>University of Edinburgh</li>
   	<li>Supervisors: Prof.  Jamal Ouenniche and Dr.  Johannes De Smedt</li>
