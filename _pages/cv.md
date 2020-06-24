@@ -78,7 +78,7 @@ redirect_from:
 
 <h2>Publications</h2>
 <ul>
-	<li><b>An experiment on human-robot interaction in a simulated agricultural task <b> 		In Proceedings of the 2020 Annual Conference Towards Autonomous Robotic Systems</li>
+	<li><b>An experiment on human-robot interaction in a simulated agricultural task </b> 		In Proceedings of the 2020 Annual Conference Towards Autonomous Robotic Systems</li>
 
  	<li><b>Understanding human responses to errors in a collaborative human-robot 		selective harvesting task </b>  In Proceeding of EPSRC UK-RAS Network (2020).  		UKRAS20 Conference:  “Robots into the realworld” </li>
 
