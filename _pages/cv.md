@@ -64,7 +64,7 @@ redirect_from:
 	<li> Topics: Introduction to Machine Learning, Neural Networks, Deep 			Learning, Reinforcement Learning </li> </ul>
   
  	<li><b>Spring 2020, Teaching assistant of the Data Mining course at King's College 		London </b></li>
-  		<ul><li> Topics: Introduction to Data Mining, Computer Vision, Natural 			Language Processing </li></ul>
+  		<ul> <li> Topics: Introduction to Data Mining, Computer Vision, Natural 			Language Processing </li> </ul>
 </ul>
 
 <h2>Service</h2>
@@ -89,25 +89,25 @@ redirect_from:
 <h2>Work experience</h2>
 <ul>
 
-<li><p> October 2017 - May 2018, Data Scientist</li></p>
+<li><p> October 2017 - May 2018, Data Scientist</p></li>
 	<ul>
   	<li>Dixons Carphone, Edinburgh,UK </li>
   	<li>Duties included: Applied machine learning, modelling of customer behaviour, predict and understand trends in industry  </li>
 	</ul>
 
-<li><p> October 2016 - March 2017, Marketing Analyst Intern </li></p>
+<li><p> October 2016 - March 2017, Marketing Analyst Intern </p></li>
 	<ul>
   	<li>Voxbone, Brussels, Belgium  </li>
-  	<li>Duties included: Datasets management, marketing analytics, website revamp </li>
+  	<li>Duties included: Datasets management, marketing analytics, website revamp </p></li>
 	</ul>
  
-<li><p> anuary 2016-May 2016, Business consultant intern </li></p>
+<li><p> anuary 2016-May 2016, Business consultant intern </p></li>
 	<ul>
   	<li>Florida Small Business Development Center, Pensacola, Florida, USA </li>
   	<li>Duties included: Online marketing for local small businesses, web development </li>
 	</ul>
   
-<li><p> September 2014 - August 2015, President Student Council </li></p>
+<li><p> September 2014 - August 2015, President Student Council </p></li>
 	<ul>
   	<li>University of Burgos Student Union, Burgos, Spain  </li>
   	<li>Duties included: Student union management </li>
