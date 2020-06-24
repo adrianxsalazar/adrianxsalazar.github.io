@@ -78,36 +78,36 @@ redirect_from:
 
 <h2>Publications</h2>
 <ul>
-	<li><p>An experiment on human-robot interaction in a simulated agricultural task </p> In 		Proceedings of the 2020 Annual Conference Towards Autonomous Robotic Systems</li>
+	<li><b>An experiment on human-robot interaction in a simulated agricultural task <b> 		In Proceedings of the 2020 Annual Conference Towards Autonomous Robotic Systems</li>
 
- 	<li><p>Understanding human responses to errors in a collaborative human-robot selective 		harvesting task </p>  In Proceeding of EPSRC UK-RAS Network (2020).  UKRAS20 		Conference:  “Robots into the realworld” </li>
+ 	<li><b>Understanding human responses to errors in a collaborative human-robot 		selective harvesting task </b>  In Proceeding of EPSRC UK-RAS Network (2020).  		UKRAS20 Conference:  “Robots into the realworld” </li>
 
-	<li>Toward robot co-labourers for intelligent farming. In Companion of the 		2020ACM/IEEE International Conference on Human-Robot Interaction </li>
+	<li><b>Toward robot co-labourers for intelligent farming </b>In Companion of the 		2020ACM/IEEE International Conference on Human-Robot Interaction </li>
 	
 </ul>
 
 <h2>Work experience</h2>
 <ul>
 
-<li><p> October 2017 - May 2018, Data Scientist</p></li>
+<li><b> October 2017 - May 2018, Data Scientist</b></li>
 	<ul>
   	<li>Dixons Carphone, Edinburgh,UK </li>
   	<li>Duties included: Applied machine learning, modelling of customer behaviour, predict and understand trends in industry  </li>
 	</ul>
 
-<li><p> October 2016 - March 2017, Marketing Analyst Intern </p></li>
+<li><b> October 2016 - March 2017, Marketing Analyst Intern </b></li>
 	<ul>
   	<li>Voxbone, Brussels, Belgium  </li>
   	<li>Duties included: Datasets management, marketing analytics, website revamp </p></li>
 	</ul>
  
-<li><p> January 2016-May 2016, Business consultant intern </p></li>
+<li><b> January 2016-May 2016, Business consultant intern </b></li>
 	<ul>
   	<li>Florida Small Business Development Center, Pensacola, Florida, USA </li>
   	<li>Duties included: Online marketing for local small businesses, web development </li>
 	</ul>
   
-<li><p> September 2014 - August 2015, President Student Council </p></li>
+<li><b> September 2014 - August 2015, President Student Council </b></li>
 	<ul>
   	<li>University of Burgos Student Union, Burgos, Spain  </li>
   	<li>Duties included: Student union management </li>
@@ -119,22 +119,22 @@ redirect_from:
 
 <ul>
 
-<li><p> Programming Languages </p></li>
+<li><b> Programming Languages </b></li>
 	<ul>
   	<li>Python, MATLAB, C++, R, HTML, SQL</li>
 	</ul>
 
-<li><p> Programming Languages </p></li>
+<li><b> Programming Languages </b></li>
 	<ul>
   	<li>Keras, Tensorflow, Pytorch, Scikit-learn, CUDA, Amazon Web Services, Google 	Cloud </li>
 	</ul>
 
-<li><p> Tools & Operative Systems </p></li>
+<li><b> Tools & Operative Systems </b></li>
 	<ul>
   	<li>Linux, ROS, Windows, Git, GitHub, LATEX, Google Colaboratory, Unix Shell 			Scripting (bash) </li>
 	</ul>
 
-<li><p> Tools & Operative Systems </p></li>
+<li><b> Tools & Operative Systems </b></li>
 	<ul>
   	<li> English (proficient) and Spanish (native speaker)</li>
 	</ul>
