@@ -25,7 +25,7 @@ redirect_from:
 	<ul>
 	  <li>University of Lincoln</li>
 	  <li>Supervisors:  Dr. Petra Bosilj and Prof. Simon Parsons</li>
-	  <li>Topics: Computer vision, crowd counting, density estimation, and object detection</li> 
+	  <li>Topics: Computer vision, crowd counting, density estimation, and object 			detection</li> 
 	</ul>
 
 <li><b>March 2020 - Present: Research Assistant in Robotic Perception</b></li>
@@ -60,10 +60,11 @@ redirect_from:
 <h2>Teaching</h2>
 <ul>
 	<li><b>Spring 2020: Teaching assistant of the Machine Learning course at King's 	College London </b></li>
-  		<ul><li> Topics: Introduction to Machine Learning, Neural Networks, Deep 			Learning, Reinforcement Learning </ul></li>
+  	<ul>
+	<li> Topics: Introduction to Machine Learning, Neural Networks, Deep 			Learning, Reinforcement Learning </li> </ul>
   
  	<li><b>Spring 2020, Teaching assistant of the Data Mining course at King's College 		London </b></li>
-  		<ul><li> Topics: Introduction to Data Mining, Computer Vision, Natural 			Language Processing </ul></li>
+  		<ul><li> Topics: Introduction to Data Mining, Computer Vision, Natural 			Language Processing </li></ul>
 </ul>
 
 <h2>Service</h2>
