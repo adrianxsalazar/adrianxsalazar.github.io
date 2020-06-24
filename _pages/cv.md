@@ -32,7 +32,7 @@ redirect_from:
 	<ul>
 	  <li>University of Lincoln</li>
 	  <li>Supervisors:  Dr.  Grzegorz Cielniak and Prof.  Marc Hanheide</li>
-	  <li>Topics: Anomaly detection and Robustness in Deep Learning <li>
+	  <li>Topics: Anomaly detection and Robustness in Deep Learning </li>
 	</ul>	
   
 <li><b>May 2019 - August 2019: Research Intern project in Machine Learning</b></li>
