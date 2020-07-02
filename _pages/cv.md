@@ -101,7 +101,7 @@ redirect_from:
   	<li>Duties included: Datasets management, marketing analytics, website revamp </p></li>
 	</ul>
  
-<li><b> January 2016-May 2016, Business consultant intern </b></li>
+<li><b> January 2016 - May 2016, Business consultant intern </b></li>
 	<ul>
   	<li>Florida Small Business Development Center, Pensacola, Florida, USA </li>
   	<li>Duties included: Online marketing for local small businesses, web development </li>
@@ -124,9 +124,9 @@ redirect_from:
   	<li>Python, MATLAB, C++, R, HTML, SQL</li>
 	</ul>
 
-<li><b> Programming Languages </b></li>
+<li><b> Relevant libraries </b></li>
 	<ul>
-  	<li>Keras, Tensorflow, Pytorch, Scikit-learn, CUDA, Amazon Web Services, Google 	Cloud </li>
+  	<li>Keras, Tensorflow, Pytorch, Scikit-learn, OpenCV, CUDA, Amazon Web Services, Google 	Cloud </li>
 	</ul>
 
 <li><b> Tools & Operative Systems </b></li>
