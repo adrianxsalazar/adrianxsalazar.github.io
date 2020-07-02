@@ -12,14 +12,13 @@ redirect_from:
 
 
 <div class="w3-card-4 w3-margin w3-Dark Gray">
-<img src="/w3images/woods.jpg" alt="Nature" style="width:100%">
-<div class="w3-container">
+<div class="w3-container w3-Dark Gray">
 <h3><b>TITLE HEADING</b></h3>
 <h5>Title description, <span class="w3-opacity">April 7, 2014</span></h5> </div>
 <div class="w3-container">
 <p>This is my final master project with <a href="https://scholar.google.com/citations?hl=en&user=zzLBKmgAAAAJ&view_op=list_works&sortby=pubdate">Dr. Michael Brendam</a> at King's College London. This project evaluates the potential of Generative Adversarial Networks (GANs) to learn the distribution of 3D structures. Then, use the learned ditributions to generate new data with the intrinsic characteristics of the original source. We show that is possible to improve the classification of 3D human representations by generating extra data using 3D GANs. Potential application of our findings lies on better human action detection systems for autonomous systems and improving the analysis of 3D medical data.</p>
-<div class="w3-row"> <div class="w3-col m8 s12"> 
-<p><a href="https://adrianxsalazar.github.io/files/adrian_salazar_generative adversarial_thesis.pdf"> READ MORE »</a> </p> </div>
+<div class="w3-row">
+<p><a href="https://adrianxsalazar.github.io/files/adrian_salazar_generative adversarial_thesis.pdf" class="w3-button w3-padding-large w3-white w3-border" > READ MORE »</a> </p>
 </div>
 </div>
 </div>
