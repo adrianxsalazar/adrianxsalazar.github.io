@@ -33,7 +33,7 @@ redirect_from:
 
 <div class="w3-card-4 w3-margin w3-Dark Gray">
 <div class="w3-container w3-Dark Gray">
-<h2><b> 3D GANs  </b></h2>
+<h2><b> 3D Generative Adversarial networks (GANs)  </b></h2>
 
 <div>
 <img src="https://adrianxsalazar.github.io/images/a_salazar_3dgans.png" alt="3dgans" class="responsivepost"> 
