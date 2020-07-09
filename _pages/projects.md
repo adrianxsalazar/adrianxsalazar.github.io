@@ -23,7 +23,10 @@ redirect_from:
 
 <figure>
   <img src="https://adrianxsalazar.github.io/images/a_salazar_active.png" alt="activesample" class="imageblog">
-  <figcaption>Active learning for human-robot collaboration</figcaption>
+<div class="text-justify">
+
+  <figcaption>Active learning for human-robot collaboration </figcaption>
+</div>
 </figure> 
 
 
