@@ -10,22 +10,24 @@ redirect_from:
 
 
 <div class="w3-card-4 w3-margin w3-Dark Gray">
+
 <div class="w3-container w3-Dark Gray">
 <h2><b> Robot Co-Labourers for Intelligent Farming </b></h2>
 <div>
 <img src="https://adrianxsalazar.github.io/images/a_salazar_straw_detection.png" alt="detectionsample" class="responsivepost"> 
 </div>
-
 <h5>Title description, <span class="w3-opacity">April 7, 2014</span></h5> </div>
 </div>
+
 <div class="w3-container">
-<p>This is an ongoing project at King's College London at the interactionLAb where we are focused on studying methods to enable collaborations between human and robots in agricultural settings. We are creating tools to en. Within this project, I am particularly interested in  </p>
+<p>This is an ongoing project at King's College London at the interactionLAb where we are focused on studying methods to enable collaborations between human and robots in agricultural settings. We are doing understanding how human react towards and adapting technologies. Within this project, I am particularly interested in  </p>
 
 <div>
-<img src="https://adrianxsalazar.github.io/images/a_salazar_active.png" alt="activesample" >
+<img src="https://adrianxsalazar.github.io/images/a_salazar_active.png" alt="activesample" class="imageblog" >
 </div>
-</div class="text-center">
-</small>Active learning for human-robot collaboration</small>
+
+<div class="text-center">
+<small> Active learning for human-robot collaboration </small>
 </div >
 
 <div class="w3-row">
