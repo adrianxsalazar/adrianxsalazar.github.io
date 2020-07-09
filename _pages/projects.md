@@ -12,10 +12,14 @@ redirect_from:
 <div class="w3-card-4 w3-margin w3-Dark Gray">
 <div class="w3-container w3-Dark Gray">
 <h3><b> Robot Co-Labourers for Intelligent Farming </b></h3>
+<div>
+<img src="https://adrianxsalazar.github.io/images/a_salazar_straw_detection.png" alt="detectionsample" class="responsivepost"> 
+</div>
+
 <h5>Title description, <span class="w3-opacity">April 7, 2014</span></h5> </div>
 </div>
 <div class="w3-container">
-<p>In this ongoing project we assess at King's College London at the interactionLAb where we are designing methodologies </p>
+<p>This is an ongoing project where we assess at King's College London at the interactionLAb where we are designing methodologies </p>
 <div class="w3-row">
 <div class="w3-col m8 s12">
 <p><button class="w3-button w3-padding-large w3-white w3-border"> <a href="https://adrianxsalazar.github.io/files/adrian_salazar_generative adversarial_thesis.pdf" > <b> READ MORE » </b> </a> </button></p></div>

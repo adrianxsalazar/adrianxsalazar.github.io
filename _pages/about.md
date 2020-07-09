@@ -11,7 +11,7 @@ redirect_from:
 
 <div class="text-justify">
 
-<p>Hello !! This is the web page of Adrian Salazar Gomez.</p>
+<p>This is the web page of Adrian Salazar Gomez.</p>
 
 <p>I am a research assistant in Machine Learning and Robotic Perception at the  <a href="https://www.lincoln.ac.uk/home/">University of Lincoln</a>  and I do research in collaboration with <a href="https://www.kcl.ac.uk/">King's College London</a> </p>
 
