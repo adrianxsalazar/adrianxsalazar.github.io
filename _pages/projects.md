@@ -20,15 +20,8 @@ redirect_from:
 </div>
 
 <div class="w3-container">
-<p>This is an ongoing project at King's College London at the interactionLAb. We are focused on studying methods to enable collaborations between human and robots in agricultural settings. Among the multiple research outputs, our studies show how to improve human reactions towards robot ro-workers. For more information about these topics you can take a look to our <a href="https://adrianxsalazar.github.io/publications/">publications</a>. Within this project, I am particularly interested in adapting computer vision algorithms to make them trustworthy. To do so, I am enabling human-robot collaborations through active learning. </p>
+<p>This is an ongoing project at King's College London at the interactionLAb. We are focused on studying methods to enable collaborations between human and robots in agricultural settings. Among the multiple research outputs, our studies show how to improve human opinion towards robot ro-workers. For more information about these topics you can take a look to our <a href="https://adrianxsalazar.github.io/publications/">publications</a>. Within this project, I am particularly interested in adapting computer vision algorithms to make them trustworthy.</p>
 
-<div>
-<img src="https://adrianxsalazar.github.io/images/a_salazar_active.png" alt="activesample" class="imageblog" >
-</div>
-
-<div class="text-center">
-<small> Active learning for human-robot collaboration </small>
-</div >
 
 <div class="w3-row">
 <div class="w3-col m8 s12">
