@@ -13,7 +13,7 @@ redirect_from:
 
 <p>This is the web page of Adrian Salazar Gomez.</p>
 
-<p>I am a research assistant in Machine Learning and Robotic Perception at the  <a href="https://www.lincoln.ac.uk/home/">University of Lincoln</a>  and I do research in collaboration with <a href="https://www.kcl.ac.uk/">King's College London</a> </p>
+<p>I am a research assistant in Machine Learning and Robotic Perception at the  <a href="https://www.lincoln.ac.uk/home/">University of Lincoln</a> and I do research in collaboration with <a href="https://www.kcl.ac.uk/">King's College London</a> </p>
 
 
 <h2> Research </h2>
@@ -31,7 +31,7 @@ redirect_from:
   <li>Coolaborative robots</li>
 </ul> 
 
-<p>To know more about these topics, take a look to my <a href="https://adrianxsalazar.github.io/publications/">publications</a> site or to my <a href="https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en">Google Schoolar</a> profile. </p>
+<p>To know more about these topics, take a look to my <a href="https://adrianxsalazar.github.io/publications/">publications</a> site and <a href="https://adrianxsalazar.github.io/projects/">projects</a> site or to my <a href="https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en">Google Schoolar</a> profile. </p>
 
 <h2> Teaching </h2>
 
