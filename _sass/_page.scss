@@ -420,7 +420,24 @@
   width: 100%;
   max-width: 400px;
   height: auto;
+}
 
+.blogblock{
+  float: right;
+  width: 100%;
+max-width: 400px;
+  text-align: center;
+  text-indent: 0;
+  border: thin silver solid;
+}
+
+.imageblog{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 350px;
+  height: auto;
 }
 
 
