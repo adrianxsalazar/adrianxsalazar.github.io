@@ -16,11 +16,11 @@ redirect_from:
 <div>
 <img src="https://adrianxsalazar.github.io/images/a_salazar_straw_detection.png" alt="detectionsample" class="responsivepost"> 
 </div>
-<h5>Title description, <span class="w3-opacity">April 7, 2014</span></h5> </div>
+<h5>Research project, <span class="w3-opacity"> April, 2019 - Ongoing </span></h5> </div>
 </div>
 
 <div class="w3-container">
-<p>This is an ongoing project at King's College London at the interactionLAb where we are focused on studying methods to enable collaborations between human and robots in agricultural settings. We are doing understanding how human react towards and adapting technologies. Within this project, I am particularly interested in  </p>
+<p>This is an ongoing project at King's College London at the interactionLAb. We are focused on studying methods to enable collaborations between human and robots in agricultural settings. Among the multiple research outputs, our studies show how to improve human reactions towards robot ro-workers. For more information about these topics you can take a look to our <a href="https://adrianxsalazar.github.io/publications/">publications</a>. Within this project, I am particularly interested in adapting computer vision algorithms to make them trustworthy. To do so, I am enabling human-robot collaborations through active learning. </p>
 
 <div>
 <img src="https://adrianxsalazar.github.io/images/a_salazar_active.png" alt="activesample" class="imageblog" >
@@ -32,7 +32,7 @@ redirect_from:
 
 <div class="w3-row">
 <div class="w3-col m8 s12">
-<p><button class="w3-button w3-padding-large w3-white w3-border"> <a href="https://adrianxsalazar.github.io/files/adrian_salazar_generative adversarial_thesis.pdf" > <b> READ MORE » </b> </a> </button></p></div>
+</div>
 </div>
 </div>
 </div>
@@ -60,7 +60,6 @@ redirect_from:
 <div class="w3-card-4 w3-margin w3-Dark Gray">
 <div class="w3-container w3-Dark Gray">
 <h2><b> Explainable Artificial Intelligence: A review of the literature </b></h2>
-<img src="https://adrianxsalazar.github.io/images/a_salazar_3dgans.png" alt="3dgans" class="responsivepost"> 
 
 <h5> Literature review project,   <span class="w3-opacity"> October 2018 - May 2019 </span></h5> </div>
 <div class="w3-container">
