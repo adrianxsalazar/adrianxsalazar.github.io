@@ -21,10 +21,11 @@ redirect_from:
 <div class="w3-container">
 <p>This is an ongoing project at King's College London at the interactionLAb where we are focused on studying methods to enable collaborations between human and robots in agricultural settings. We are creating tools to en. Within this project, I am particularly interested in  </p>
 
-<div class="blogblock">
-<img src="https://adrianxsalazar.github.io/images/a_salazar_active.png" alt="activesample" class="imageblog"> 
-Active Learning
-</div>
+<figure>
+  <img src="https://adrianxsalazar.github.io/images/a_salazar_active.png" alt="activesample" class="imageblog">
+  <figcaption>Active learning for human-robot collaboration</figcaption>
+</figure> 
+
 
 <div class="w3-row">
 <div class="w3-col m8 s12">
