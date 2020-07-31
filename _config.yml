@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Adrian Salazar Gomez - Site"
+title                    : "Adrian Salazar - Site"
 title_separator          : "-"
-name                     : &name "Adrian Salazar Gomez"
+name                     : &name "Adrian Salazar"
 description              : &description "personal description"
 url                      : https://adrianxsalazar.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Adrian Salazar Gomez"
+  name             : "Adrian Salazar"
   avatar           : "adrian_salazar_profile.png"
   bio              : "Research Assistant in Robotic Perception and Machine Learning"
   location         : "London. United Kingdom"

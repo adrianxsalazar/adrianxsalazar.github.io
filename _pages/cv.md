@@ -70,8 +70,9 @@ redirect_from:
 <h2>Service</h2>
 <ul>
  	<li>Reviewer:  21st Towards Autonomous Robotic Systems Conference (TAROS 2020) </li>
- 	<li>Conference volunteer:  Eighth International Conference on Learning  		Representations (ICLR 2020) </li>
-	<li>Conference volunteer:  Thirty-seventh International Conference on Machine 			Learning (ICML 2020) </li>
+ 	<li>Conference volunteer:  8th International Conference on Learning  Representations (ICLR 2020) </li>
+	<li>Conference volunteer:  37th International Conference on Machine Learning (ICML 2020) </li>
+	<li>Reviewer:  12th  International Conference on Social Robotics (ICSR 2020) </li>
 </ul>
 
 
