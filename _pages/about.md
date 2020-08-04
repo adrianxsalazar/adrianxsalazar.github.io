@@ -75,6 +75,13 @@ redirect_from:
 
 <br><p> If you want to know about my previous studies and my research placements you can take a look to my <a href="https://adrianxsalazar.github.io/cv/"> CV site </a></p>
 
+<h2> News </h2>
+
+
+
+<p> <strong> 2020/07 </strong> </p>
+<p>Gave a workshop on Anomaly detection in Computer Vision at the University of Lincoln </p>
+
 
 </div>
 
