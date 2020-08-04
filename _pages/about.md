@@ -81,10 +81,10 @@ redirect_from:
 Gave a workshop on Anomaly detection in Computer Vision at the <a href="https://sfperception2020.blogs.lincoln.ac.uk/"> University of Lincoln </a>  </p>
 
 <p> <strong> 2020/03 </strong> <br>
-Started as a Research assistant in Machine learning and robotic perception at the University of Lincoln </a>  </p>
+Started as a Research assistant in Machine learning and robotic perception at the University of Lincoln </p>
 
 <p> <strong> 2020/01 </strong> <br>
-Started as a Teaching assistant at King's College London </a>  </p>
+Started as a Teaching assistant at King's College London </p>
 
 </div>
 
