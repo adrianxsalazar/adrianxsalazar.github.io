@@ -77,6 +77,9 @@ redirect_from:
 
 <h2> News </h2>
 
+<p> <strong> 2020/08 </strong> <br>
+I am excited to announce that I will attend to the  <a href="https://www.oxfordml.school/"> University of Oxford summer school in machine learning </a> </p> 
+
 <p> <strong> 2020/07 </strong> <br>
 Gave a workshop on Anomaly detection in Computer Vision at the <a href="https://sfperception2020.blogs.lincoln.ac.uk/"> University of Lincoln </a>  </p>
 
