@@ -73,6 +73,9 @@ redirect_from:
  	<li>Conference volunteer:  8th International Conference on Learning  Representations (ICLR 2020) </li>
 	<li>Conference volunteer:  37th International Conference on Machine Learning (ICML 2020) </li>
 	<li>Reviewer:  12th  International Conference on Social Robotics (ICSR 2020) </li>
+	<li>Program Chair:  2nd Workshop of Quality of Interaction in Socially Assistive Robots (QISAR 2020) at 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2020). </li>
+
+ 
 </ul>
 
 
