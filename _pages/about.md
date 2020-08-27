@@ -20,7 +20,7 @@ redirect_from:
 
 <div class="text-justify">
 
-<p>My research interests lie broadly within artificial intelligence, machine learning, and autonomous systems.</p>
+<p>My research interests lie broadly within artificial intelligence, machine learning, and autonomous systems. In particular, I believe in autonomous systems as cautious continual learners. Therefore, my research explores the intersection between decision making autonomous systems, continous learning, and uncertainty in AI. </p>
 
 <p>Lately, I've been working on:</p>
 
