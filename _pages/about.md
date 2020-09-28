@@ -77,11 +77,14 @@ redirect_from:
 
 <h2> News </h2>
 
+<p> <strong> 2020/09 </strong> <br>
+I will attend to the  <a href="https://www.oxfordml.school/"> University of Sheffield summer school in Gaussian Processes and Uncertainty Quantification </a> </p>
+
 <p> <strong> 2020/08 </strong> <br>
 I am excited to announce that I will attend to the  <a href="https://www.oxfordml.school/"> University of Oxford summer school in machine learning </a> </p> 
 
 <p> <strong> 2020/07 </strong> <br>
-Gave a workshop on Anomaly detection in Computer Vision at the <a href="https://sfperception2020.blogs.lincoln.ac.uk/"> University of Lincoln </a>  </p>
+Gave a workshop on Anomaly detection in Computer Vision at the <a href="http://gpss.cc/gpss20/"> University of Lincoln </a>  </p>
 
 <p> <strong> 2020/03 </strong> <br>
 Started as a Research assistant in Machine learning and robotic perception at the University of Lincoln </p>

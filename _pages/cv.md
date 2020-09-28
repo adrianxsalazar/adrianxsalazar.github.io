@@ -65,6 +65,9 @@ redirect_from:
   
  	<li><b>Spring 2020, Teaching assistant of the Data Mining course at King's College 		London </b></li>
   		<ul> <li> Topics: Introduction to Data Mining, Computer Vision, Natural 			Language Processing </li> </ul>
+
+	<li><b>Winter 2020, Teaching assistant of the Artificial Intelligence course at King's College 			London </b></li>
+  		<ul> <li> Topics: Bayesian networks, argumentation, machine learning, probabilistic reasoning </li> </ul>
 </ul>
 
 <h2>Service</h2>
