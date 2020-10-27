@@ -24,12 +24,6 @@ redirect_from:
 
 <p>Lately, I've been working on:</p>
 
-<ul>
-  <li>Anomaly and out-of-distribution detection </li>
-  <li>Computer vision for agricultural robots</li>
-  <li>Uncertainty & Robustness in Deep Learning</li>
-  <li>Coolaborative robots</li>
-</ul> 
 
 <p>To know more about these topics, take a look to my <a href="https://adrianxsalazar.github.io/publications/">publications</a> site and <a href="https://adrianxsalazar.github.io/projects/">projects</a> site or to my <a href="https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en">Google Schoolar</a> profile. </p>
 
@@ -40,6 +34,7 @@ redirect_from:
  <ul>
   <li>7CCSMDM1: Data Mining </li>
   <li>7CCSMML: Machine Learning</li>
+  <li>6CCS3AIN: Artificial Intelligence Reasoning and Decision Making</li>
 </ul> 
 
 </div>
