@@ -29,7 +29,7 @@ redirect_from:
   <li>Anomaly and out-of-distribution detection </li>
   <li>Computer vision for agricultural robots</li>
   <li>Uncertainty & Robustness in Deep Learning</li>
-  <li>Coolaborative robots</li>
+  <li>collaborative robots</li>
 </ul> 
 
 
