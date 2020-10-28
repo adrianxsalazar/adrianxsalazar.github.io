@@ -45,6 +45,13 @@ redirect_from:
   <li>6CCS3AIN: Artificial Intelligence Reasoning and Decision Making</li>
 </ul> 
 
+<p>I am a asociated demonstrator at <a href="https://www.lincoln.ac.uk/home/">the University of Lincoln</a> where I am teaching:</p>
+ <ul>
+  <li>Big Data</li>
+  <li>Machine Learning</li>
+  <li>Introduction to robotics</li>
+</ul>
+
 </div>
 
 
