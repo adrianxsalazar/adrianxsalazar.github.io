@@ -61,13 +61,18 @@ redirect_from:
 <ul>
 	<li><b>Spring 2020, Teaching assistant of the Machine Learning course at King's 	College London </b></li>
   	<ul>
-	<li> Topics: Introduction to Machine Learning, Neural Networks, Deep 			Learning, Reinforcement Learning </li> </ul>
+	<li> Topics: Introduction to Machine Learning, Neural Networks, Bayessian networks, Deep Learning, Reinforcement Learning </li> </ul>
   
  	<li><b>Spring 2020, Teaching assistant of the Data Mining course at King's College 		London </b></li>
   		<ul> <li> Topics: Introduction to Data Mining, Computer Vision, Natural 			Language Processing </li> </ul>
 
 	<li><b>Winter 2020, Teaching assistant of the Artificial Intelligence course at King's College 			London </b></li>
-  		<ul> <li> Topics: Bayesian networks, argumentation, machine learning, probabilistic reasoning </li> </ul>
+  		<ul> <li> Topics: Bayesian networks, argumentation, machine learning, probabilistic reasoning, game theory, markov decision processes, ethics in AI. </li> </ul>
+
+	<li><b>Winter 2020, Associated demonstrator of the intro to robotics, machine learning, and big data madules at the University of Lincoln </b></li>
+  		<ul> <li> Topics: Intro to machine learning, intro to reinforcement learning, ROS, statistical analysis </li> </ul>
+
+
 </ul>
 
 <h2>Service</h2>
@@ -77,6 +82,7 @@ redirect_from:
 	<li>Conference volunteer:  37th International Conference on Machine Learning (ICML 2020) </li>
 	<li>Reviewer:  12th  International Conference on Social Robotics (ICSR 2020) </li>
 	<li>Program Chair:  2nd Workshop of Quality of Interaction in Socially Assistive Robots (QISAR 2020) at 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2020). </li>
+	<li> Conference volunteer: Thirty-fourth Annual Conference on Neural Information Processing Systems (NeurIPS 2020). </li>
 
  
 </ul>
