@@ -49,15 +49,9 @@ redirect_from:
 
 <div class="w3-row">
 <div class="w3-col m8 s12">
-<p><button class="w3-button w3-padding-large w3-white w3-border"> <a href="https://adrianxsalazar.github.io/files/adrian_salazar_generative adversarial_thesis.pdf" > <b> READ MORE » </b> </a> </button></p></div>
+<p><button class="w3-button w3-padding-large w3-white w3-border"> <a href="https://link.springer.com/chapter/10.1007/978-3-030-63486-5_25" > <b> READ MORE » </b> </a> </button></p></div>
 </div>
 
-<p><button class="w3-button w3-padding-large w3-white w3-border"> <a href="https://adrianxsalazar.github.io/files/adrian_salazar_generative adversarial_thesis.pdf" > <b> READ MORE » </b> </a> </button></p>
-
-<div class="w3-col m8 s12">
-<p><button class="w3-button w3-padding-large w3-white w3-border"> <a href="https://adrianxsalazar.github.io/files/adrian_salazar_generative adversarial_thesis.pdf" > <b> READ MORE » </b> </a> </button></p></div>
-
-</div>
 
 
 <div class="w3-row">
