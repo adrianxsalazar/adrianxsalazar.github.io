@@ -25,16 +25,13 @@ redirect_from:
 <h2><b> Crop forecasting  </b></h2>
 
 <div>
-<img src="https://adrianxsalazar.github.io/images/broccoli_forecasting.png.png" alt="forecasting broccoli" class="responsivepost">
+<img src="https://adrianxsalazar.github.io/images/broccoli_forecasting.png" alt="forecasting broccoli" class="responsivepost">
 </div>
 
 <h5> Research project, <span class="w3-opacity"> August 2020 - present </span></h5> </div>
 </div>
 <div class="w3-container">
-<p>This research project aims to build forecasting and decision support systems for the farming industry. These systems will provide farmers with information about the crop yield and crop growing timing. This information will be crucial for better crop utilisation, optimised harvesting, and labour scheduling in agriculture. In this project, I am researching and implementing forecasting tools for this domain. Additionally, I am part of the team in charge of the data collection systems. This project is in partnership with CERES. For more information about the project, please check the following link to the <a href="https://scholar.google.com/citations?hl=en&user=zzLBKmgAAAAJ&view_op=list_works&sortby=pubdate"> Ceres website.</a> .</p> </div>
-
-
-
+<p>This research project aims to build forecasting and decision support systems for the farming industry. These systems will provide farmers with information about the crop yield and crop growing timing. This information will be crucial for better crop utilisation, optimised harvesting, and labour scheduling in agriculture. In this project, I am researching and implementing forecasting tools for this domain. Additionally, I am part of the team in charge of the data collection systems. This project is in partnership with CERES. For more information about the project, please check the following link to the <a href="https://www.ceresagritech.org/projects/broccoli-crop-forecasting/"> Ceres website.</a> .</p> </div>
 
 
 
@@ -49,6 +46,21 @@ redirect_from:
 
 <div class="w3-container">
 <p>This is an ongoing project at King's College London at the interactionLAb. We are focused on studying methods to enable collaborations between human and robots in agricultural settings. Among the multiple research outputs, our studies show how to improve human opinion towards robot ro-workers. For more information about these topics you can take a look to our <a href="https://adrianxsalazar.github.io/publications/">publications</a>. Within this project, I am particularly interested in adapting computer vision algorithms to make them trustworthy.</p>
+
+<div class="w3-row">
+<div class="w3-col m8 s12">
+<p><button class="w3-button w3-padding-large w3-white w3-border"> <a href="https://adrianxsalazar.github.io/files/adrian_salazar_generative adversarial_thesis.pdf" > <b> READ MORE » </b> </a> </button></p></div>
+</div>
+
+<div class="w3-col m8 s12">
+<p><button class="w3-button w3-padding-large w3-white w3-border"> <a href="https://adrianxsalazar.github.io/files/adrian_salazar_generative adversarial_thesis.pdf" > <b> READ MORE » </b> </a> </button></p></div>
+</div>
+
+<div class="w3-col m8 s12">
+<p><button class="w3-button w3-padding-large w3-white w3-border"> <a href="https://adrianxsalazar.github.io/files/adrian_salazar_generative adversarial_thesis.pdf" > <b> READ MORE » </b> </a> </button></p></div>
+</div>
+
+</div>
 
 
 <div class="w3-row">
