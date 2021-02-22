@@ -65,6 +65,23 @@ redirect_from:
 	</ul>
 </ul>
 
+
+
+<h2>Publications</h2>
+<ul>
+
+  <li><b>Deep  Regression  versus  Detection  for  Counting  in  Robotic  Phenotyping. </b> In IEEE Robotics and Automation Letters (RAL) (Accepted. To be published)</li>
+
+	<li><b>An experiment on human-robot interaction in a simulated agricultural task. </b> 		In Proceedings of the 2020 Annual Conference Towards Autonomous Robotic Systems</li>
+
+ 	<li><b>Understanding human responses to errors in a collaborative human-robot 		selective harvesting task. </b>  In Proceeding of EPSRC UK-RAS Network (2020).  		UKRAS20 Conference:  “Robots into the realworld” </li>
+
+	<li><b>Toward robot co-labourers for intelligent farming. </b>In Companion of the 		2020ACM/IEEE International Conference on Human-Robot Interaction </li>
+
+</ul>
+
+
+
 <h2>Teaching</h2>
 <ul>
   <li><b>Spring 2021, Teaching assistant of the Machine Learning course at King's College London </b></li>
@@ -98,20 +115,6 @@ redirect_from:
 
 </ul>
 
-
-
-<h2>Publications</h2>
-<ul>
-
-  <li><b>Deep  Regression  versus  Detection  for  Counting  in  Robotic  Phenotyping. </b> In IEEE Robotics and Automation Letters (RAL) (Accepted. To be published)</li>
-
-	<li><b>An experiment on human-robot interaction in a simulated agricultural task. </b> 		In Proceedings of the 2020 Annual Conference Towards Autonomous Robotic Systems</li>
-
- 	<li><b>Understanding human responses to errors in a collaborative human-robot 		selective harvesting task. </b>  In Proceeding of EPSRC UK-RAS Network (2020).  		UKRAS20 Conference:  “Robots into the realworld” </li>
-
-	<li><b>Toward robot co-labourers for intelligent farming. </b>In Companion of the 		2020ACM/IEEE International Conference on Human-Robot Interaction </li>
-
-</ul>
 
 
 <h2>Awards</h2>
