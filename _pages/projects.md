@@ -10,11 +10,39 @@ redirect_from:
 
 
 <div class="w3-card-4 w3-margin w3-Dark Gray">
+<div class="w3-container w3-Dark Gray">
+<h2><b> 5G enabled AI for autonomous systems </b></h2>
 
+<h5> Research project </h5> </div>
+</div>
+<div class="w3-container">
+<p>More to come soon ...</p></div>
+
+
+
+<div class="w3-card-4 w3-margin w3-Dark Gray">
+<div class="w3-container w3-Dark Gray">
+<h2><b> Crop forecasting  </b></h2>
+
+<div>
+<img src="https://adrianxsalazar.github.io/images/broccoli_forecasting.png.png" alt="forecasting broccoli" class="responsivepost">
+</div>
+
+<h5> Research project, <span class="w3-opacity"> August 2020 - present </span></h5> </div>
+</div>
+<div class="w3-container">
+<p>This research project aims to build forecasting and decision support systems for the farming industry. These systems will provide farmers with information about the crop yield and crop growing timing. This information will be crucial for better crop utilisation, optimised harvesting, and labour scheduling in agriculture. In this project, I am researching and implementing forecasting tools for this domain. Additionally, I am part of the team in charge of the data collection systems. This project is in partnership with CERES. For more information about the project, please check the following link to the <a href="https://scholar.google.com/citations?hl=en&user=zzLBKmgAAAAJ&view_op=list_works&sortby=pubdate"> Ceres website.</a> .</p> </div>
+
+
+
+
+
+
+<div class="w3-card-4 w3-margin w3-Dark Gray">
 <div class="w3-container w3-Dark Gray">
 <h2><b> Robot Co-Labourers for Intelligent Farming </b></h2>
 <div>
-<img src="https://adrianxsalazar.github.io/images/a_salazar_straw_detection.png" alt="detectionsample" class="responsivepost"> 
+<img src="https://adrianxsalazar.github.io/images/a_salazar_straw_detection.png" alt="detectionsample" class="responsivepost">
 </div>
 <h5>Research project, <span class="w3-opacity"> April, 2019 - Ongoing </span></h5> </div>
 </div>
@@ -36,7 +64,7 @@ redirect_from:
 <h2><b> 3D Generative Adversarial networks (GANs)  </b></h2>
 
 <div>
-<img src="https://adrianxsalazar.github.io/images/a_salazar_3dgans.png" alt="3dgans" class="responsivepost"> 
+<img src="https://adrianxsalazar.github.io/images/a_salazar_3dgans.png" alt="3dgans" class="responsivepost">
 </div>
 
 <h5> Master thesis project, <span class="w3-opacity"> January 2019 - August 2019 </span></h5> </div>

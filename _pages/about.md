@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -20,7 +20,7 @@ redirect_from:
 
 <div class="text-justify">
 
-<p>My research interests lie broadly within artificial intelligence, machine learning, and autonomous systems. In particular, I believe in autonomous systems as cautious continual learners. Therefore, my research explores the intersection between decision making autonomous systems, continous learning, and uncertainty in AI. </p>
+<p>My research interests lie broadly within artificial intelligence, machine learning, and autonomous systems. I believe in autonomous systems as cautious continual learners. My research aims to explore the intersection between decision making autonomous systems, continous learning, and uncertainty in AI. </p>
 
 <p>Lately, I've been working on:</p>
 
@@ -30,20 +30,20 @@ redirect_from:
   <li>Computer vision for agricultural robots</li>
   <li>Uncertainty & Robustness in Deep Learning</li>
   <li>Collaborative robots</li>
-</ul> 
+</ul>
 
 
 <p>To know more about these topics, take a look to my <a href="https://adrianxsalazar.github.io/publications/">publications</a> site and <a href="https://adrianxsalazar.github.io/projects/">projects</a> site or to my <a href="https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en">Google Schoolar</a> profile. </p>
 
 <h2> Teaching </h2>
 
-<p>I am a teaching assistant at <a href="https://www.kcl.ac.uk/">King's College London</a> where I am teaching:</p> 
+<p>I am a teaching assistant at <a href="https://www.kcl.ac.uk/">King's College London</a> where I am teaching:</p>
 
  <ul>
-  <li>7CCSMDM1: Data Mining </li>
-  <li>7CCSMML: Machine Learning</li>
-  <li>6CCS3AIN: Artificial Intelligence Reasoning and Decision Making</li>
-</ul> 
+  <li>7CCSMDM1: Data Mining (2020) </li>
+  <li>7CCSMML: Machine Learning (2020 and 2021) </li>
+  <li>6CCS3AIN: Artificial Intelligence Reasoning and Decision Making (2020) </li>
+</ul>
 
 <p>I am a asociated demonstrator at <a href="https://www.lincoln.ac.uk/home/">the University of Lincoln</a> where I am teaching:</p>
  <ul>
@@ -62,11 +62,11 @@ redirect_from:
 
 <h2> Contact </h2>
 
-<p>You can drop me an email to <a href="mailto:adrian.salazar_gomez@kcl.ac.uk"> my email: </a> <br>
-<strong>adrian.salazar_gomez@kcl.ac.uk</strong>  </p>
+<p>You can drop me an email to <a href="mailto:asalazargomez@lincoln.ac.uk"> my University of Lincoln email: </a>  <strong>asalazargomez@lincoln.ac.uk</strong>
+or to <a href="mailto:adrian.salazar_gomez@kcl.ac.uk"> my king's email: </a>  <strong>adrian.salazar_gomez@kcl.ac.uk</strong> <br> </p>
 
 </div>
-  
+
 
 <div class="text-justify">
 
@@ -88,10 +88,13 @@ redirect_from:
 <h2> News </h2>
 
 <p> <strong> 2020/09 </strong> <br>
+Paper accepted at Journal: IEEE Robotics and Automation Letters (RA-L). Title: Deep  Regression  versus  Detection  for  Counting  in  Robotic  Phenotyping. </p>
+
+<p> <strong> 2020/09 </strong> <br>
 I will attend to the  <a href="http://gpss.cc/gpss20/"> University of Sheffield summer school in Gaussian Processes and Uncertainty Quantification </a> </p>
 
 <p> <strong> 2020/08 </strong> <br>
-I am excited to announce that I will attend to the  <a href="https://www.oxfordml.school/"> University of Oxford summer school in machine learning </a> </p> 
+I am excited to announce that I will attend to the  <a href="https://www.oxfordml.school/"> University of Oxford summer school in machine learning </a> </p>
 
 <p> <strong> 2020/07 </strong> <br>
 Gave a workshop on Anomaly detection in Computer Vision at the <a href="https://sfperception2020.blogs.lincoln.ac.uk/"> University of Lincoln </a>  </p>
@@ -103,5 +106,3 @@ Started as a Research assistant in Machine learning and robotic perception at th
 Started as a Teaching assistant at King's College London </p>
 
 </div>
-
-
