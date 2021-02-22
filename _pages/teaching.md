@@ -27,15 +27,15 @@ redirect_from:
 
 <p>Here, I will post supporting material for the modules I am teaching</p>
 
-<h3> Machine Learning and pattern recognition at King's College London - Tutorial sessions (2021) </h3>
+<h3> Machine Learning and pattern recognition at King's College London - Tutorial sessions (Spring 2021) </h3>
 <ul>
-  <li> Introduction to machine learning (Session 1)<a href="https://adrianxsalazar.github.io/files/machine_learning_2021/adrian_salazar_notes_introducctio_machine_learning_1.pdf">link</a></li>
+  <li> Introduction to machine learning (Session 1) <a href="https://adrianxsalazar.github.io/files/machine_learning_2021/adrian_salazar_notes_introducctio_machine_learning_1.pdf">link</a></li>
   <li> Decision trees and k-means (Session 2) <a href="https://adrianxsalazar.github.io/files/machine_learning_2021/adrian_salazar_notes_decision_tree_2.pdf">link</a> </li>
   <li> Naive Bayes (Session 3) <a href="https://adrianxsalazar.github.io/files/machine_learning_2021/adrian_salazar_notes_naive_bayes_3.pdf">link</a> </li>
 </ul>
 
 
-<h3> Artificial Intelligence Reasoning and Decision Making </h3>
+<h3> Artificial Intelligence Reasoning and Decision Making - Tutorial sessions (Winter 2020) </h3>
 <ul>
   <li>Bayesian networks <a href="https://adrianxsalazar.github.io/files/asg_bayessian_networks.pdf">link</a></li>
   <li>Markov decision processes <a href="https://adrianxsalazar.github.io/files/asg_sequential_decision_making.pdf">link</a> </li>
