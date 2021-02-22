@@ -17,31 +17,39 @@ redirect_from:
 	<li>M.Sc. in Business Analytics, University of Edinburgh, 2018 </li>
 	<li>B.Sc. in Statistics and Business, University of West Florida and University of 		Burgos, 2016 </li>
 
-</ul> 
+</ul>
 
 <h2>Research experience</h2>
 <ul>
+
+<li><b>March 2020 - Present: Research Assistant for project: 5G enabled AI for robotic applications</b></li>
+	<ul>
+	  <li>University of Lincoln</li>
+	  <li>Supervisors:  Prof. Elizabeth Sklar and Prof. Simon Parsons</li>
+	  <li>Topics: Computer vision, De-centralised AI, Autonomous-farming, efficient deep learning structures</li>
+	</ul>
+
 <li><b>March 2020 - Present: Research Assistant in Machine Learning</b></li>
 	<ul>
 	  <li>University of Lincoln</li>
 	  <li>Supervisors:  Dr. Petra Bosilj and Prof. Simon Parsons</li>
-	  <li>Topics: Computer vision, crowd counting, density estimation, and object 			detection</li> 
+	  <li>Topics: Computer vision, crowd counting, density estimation, and object detection</li>
 	</ul>
 
-<li><b>March 2020 - Present: Research Assistant in Robotic Perception</b></li>
+<li><b>March 2020 - September 2021: Research Assistant in Robotic Perception</b></li>
 	<ul>
 	  <li>University of Lincoln</li>
 	  <li>Supervisors:  Dr.  Grzegorz Cielniak and Prof.  Marc Hanheide</li>
 	  <li>Topics: Anomaly detection and Robustness in Deep Learning </li>
-	</ul>	
-  
+	</ul>
+
 <li><b>May 2019 - August 2019: Research Intern project in Machine Learning</b></li>
 	<ul>
 	<li>Kings College London at InteractLab</li>
   	<li>Supervisors: Prof. Simon Parsons and Prof. Elizabeth Sklar</li>
   	<li>Topics: Object detection, human-robot-interaction, coolaborative robots, active 		learning</li>
 	</ul>
-  
+
 <li><b>January 2019 - August 2019: MSc Research Project in Machine Learning</b></li>
 	<ul>
   	<li>King's College London</li>
@@ -56,13 +64,17 @@ redirect_from:
  	<li>Topics: Graph Machine Learning, Costumer behaviour mining</li>
 	</ul>
 </ul>
-  
+
 <h2>Teaching</h2>
 <ul>
-	<li><b>Spring 2020, Teaching assistant of the Machine Learning course at King's 	College London </b></li>
+  <li><b>Spring 2021, Teaching assistant of the Machine Learning course at King's College London </b></li>
+    <ul>
+  <li> Topics: Introduction to Machine Learning, Neural Networks, Learning by demonstration, Bayessian networks, Deep Learning, Reinforcement Learning </li> </ul>
+
+	<li><b>Spring 2020, Teaching assistant of the Machine Learning course at King's College London </b></li>
   	<ul>
 	<li> Topics: Introduction to Machine Learning, Neural Networks, Bayessian networks, Deep Learning, Reinforcement Learning </li> </ul>
-  
+
  	<li><b>Spring 2020, Teaching assistant of the Data Mining course at King's College 		London </b></li>
   		<ul> <li> Topics: Introduction to Data Mining, Computer Vision, Natural 			Language Processing </li> </ul>
 
@@ -84,19 +96,33 @@ redirect_from:
 	<li>Program Chair:  2nd Workshop of Quality of Interaction in Socially Assistive Robots (QISAR 2020) at 29th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2020). </li>
 	<li> Conference volunteer: Thirty-fourth Annual Conference on Neural Information Processing Systems (NeurIPS 2020). </li>
 
- 
 </ul>
 
 
 
 <h2>Publications</h2>
 <ul>
+
+  <li><b>Deep  Regression  versus  Detection  for  Counting  in  Robotic  Phenotyping. </b> In IEEE Robotics and Automation Letters (RAL) (Accepted. To be published)</li>
+
 	<li><b>An experiment on human-robot interaction in a simulated agricultural task. </b> 		In Proceedings of the 2020 Annual Conference Towards Autonomous Robotic Systems</li>
 
  	<li><b>Understanding human responses to errors in a collaborative human-robot 		selective harvesting task. </b>  In Proceeding of EPSRC UK-RAS Network (2020).  		UKRAS20 Conference:  “Robots into the realworld” </li>
 
 	<li><b>Toward robot co-labourers for intelligent farming. </b>In Companion of the 		2020ACM/IEEE International Conference on Human-Robot Interaction </li>
-	
+
+</ul>
+
+
+<h2>Awards</h2>
+<ul>
+
+  <li><b>King’s Education Award (2020) </b> Award to recognise teachers that supported students in and outside of the classroom </li>
+
+	<li><b>Erasmus + grant (2016) </b> European grant awarded on overall academic record to support cross country employment.</li>
+
+ 	<li><b> International Erasmus in USA scholarship (2014) </b>  University of Burgos scholarship for outstanding student to study 1 year in a USA University. </li>
+
 </ul>
 
 <h2>Work experience</h2>
@@ -113,13 +139,13 @@ redirect_from:
   	<li>Voxbone, Brussels, Belgium  </li>
   	<li>Duties included: Datasets management, marketing analytics, website revamp </p></li>
 	</ul>
- 
+
 <li><b> January 2016 - May 2016, Business consultant intern </b></li>
 	<ul>
   	<li>Florida Small Business Development Center, Pensacola, Florida, USA </li>
   	<li>Duties included: Online marketing for local small businesses, web development </li>
 	</ul>
-  
+
 <li><b> September 2014 - August 2015, President Student Council </b></li>
 	<ul>
   	<li>University of Burgos Student Union, Burgos, Spain  </li>
@@ -154,4 +180,3 @@ redirect_from:
 </ul>
 
 </div>
-  
