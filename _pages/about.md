@@ -87,8 +87,8 @@ or to <a href="mailto:adrian.salazar_gomez@kcl.ac.uk"> my king's email: </a>  <s
 
 <h2> News </h2>
 
-<p> <strong> 2020/09 </strong> <br>
-Paper accepted at Journal: IEEE Robotics and Automation Letters (RA-L). Title: Deep  Regression  versus  Detection  for  Counting  in  Robotic  Phenotyping. </p>
+<p> <strong> 2021/02 </strong> <br>
+Paper accepted at Journal: IEEE Robotics and Automation Letters (RA-L). Title: Deep  Regression  versus  Detection  for  Counting  in  Robotic  Phenotyping. <a href="https://ieeexplore.ieee.org/document/9364677"> [PDF] </a> <a href="https://github.com/adrianxsalazar/Deep_Regression_vs_Detection_for_Counting_in_Robotic_Phenotyping"> [CODE] </a> </p>
 
 <p> <strong> 2020/09 </strong> <br>
 I will attend to the  <a href="http://gpss.cc/gpss20/"> University of Sheffield summer school in Gaussian Processes and Uncertainty Quantification </a> </p>

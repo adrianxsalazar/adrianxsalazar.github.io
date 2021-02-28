@@ -13,7 +13,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 <tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://adrianxsalazar.github.io/images/salazar_et_al_detection_vs_regression.png" width="120px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 Adrian  Salazar  Gomez,  Simon Parsons, Erchan Aptoula, Petra Bosilj. <br> <strong> Deep  Regression  versus  Detection  for  Counting  in  Robotic  Phenotyping </strong> <br>
-<i>  IEEE Robotics and Automation Letters (RAL) (Accepted. To be published) </i>  </p> </td>
+<i> In IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2021.3062586. <a href="https://ieeexplore.ieee.org/document/9364677"> [PDF] </a> <a href="https://github.com/adrianxsalazar/Deep_Regression_vs_Detection_for_Counting_in_Robotic_Phenotyping"> [CODE] </a>  </i>  </p> </td>
 </tr>
 </tbody>
 </table>

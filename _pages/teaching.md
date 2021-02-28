@@ -32,6 +32,9 @@ redirect_from:
   <li> Introduction to machine learning (Session 1) <a href="https://adrianxsalazar.github.io/files/machine_learning_2021/adrian_salazar_notes_introducctio_machine_learning_1.pdf">link</a></li>
   <li> Decision trees and k-means (Session 2) <a href="https://adrianxsalazar.github.io/files/machine_learning_2021/adrian_salazar_notes_decision_tree_2.pdf">link</a> </li>
   <li> Naive Bayes (Session 3) <a href="https://adrianxsalazar.github.io/files/machine_learning_2021/adrian_salazar_notes_naive_bayes_3.pdf">link</a> </li>
+  <li> Markov Chains (Session 4) <a href="https://adrianxsalazar.github.io/files/machine_learning_2021/asg_notes_on_markov_chains_tutorial_4.pdf">link</a> </li>
+  <li> Kernel machines (Session 5) <a href="https://adrianxsalazar.github.io/files/machine_learning_2021/adrian_salazar_notes_kernel_machines_5.pdf">link</a> </li>
+  <li> Neural Networks (Session 6) <a href="https://adrianxsalazar.github.io/files/machine_learning_2021/asg_notes_neural_networks_tutorial_6.pdf">link</a> </li>
 </ul>
 
 
